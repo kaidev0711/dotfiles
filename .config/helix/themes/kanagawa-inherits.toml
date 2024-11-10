@@ -1,0 +1,17 @@
+inherits = "kanagawa"
+"ui.background" = {}
+# "ui.background" = { fg = "foreground" }
+
+# "ui.selection" = { bg = "sumiInk3" }
+# "ui.selection.primary" = { bg = "sumiInk3" }
+
+"ui.text.focus" = { fg = "fujiWhite", bg = "sumiInk3", modifiers = ["bold"] }
+# "ui.bufferline.background" = {}
+
+# "sumiInk1
+"ui.menu" = { fg = "fujiWhite", bg = "" }
+"ui.menu.selected" = { fg = "fujiWhite", bg = "sumiInk3", modifiers = ["bold"] }
+"ui.popup" = { fg = "fujiWhite", bg = "" }
+"ui.help" = { fg = "fujiWhite", bg = "" }
+
+"ui.statusline" = { fg = "oldWhite" }

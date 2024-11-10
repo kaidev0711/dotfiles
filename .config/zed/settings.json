@@ -1,0 +1,144 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed // documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-20240620"
+    },
+    "version": "2"
+  },
+  "base_keymap": "VSCode",
+  "theme": "Kanagawa Wave - No Italics",
+  "ui_font_size": 17,
+  "buffer_font_size": 16,
+  // "ui_font_family": "GeistMono Nerd Font",
+  "ui_font_family": "Cascadia Code",
+  "soft_wrap": "preferred_line_length",
+  "preferred_line_length": 120,
+  "vim_mode": true,
+  "tab_bar": {
+    "show": true
+    // "file_icons": true
+  },
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
+  "scrollbar": {
+    "show": "never"
+  },
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware"
+  },
+  // "gutter": {
+  //   "line_numbers": false,
+  //   "folds": false,
+  //   "code_actions": false,
+  //   "runnables": false
+  // },
+  // "outline_panel": {
+  //   "dock": "right"
+  // },
+  "inlay_hints": {
+    "enabled": true
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "terminal": {
+    "font_size": 16,
+    "font_family": "GeistMono Nerd Font",
+    "blinking": "on"
+  },
+  "project_panel": {
+    "default_width": 300
+    // "button": true,
+    // "dock": "right",
+    // "git_status": true,
+  },
+  // "outline_panel": {
+  //   "dock": "right"
+  // },
+  // "collaboration_panel": {
+  //   "dock": "right"
+  // },
+  "tabs": {
+    "git_status": true,
+    "file_icons": true,
+    "show_icons": true
+  },
+
+  "lsp": {
+    "rust-analyzer": {
+      "initialization_options": {
+        "check": {
+          "command": "clippy" // rust-analyzer.check.command (default: "check")
+        },
+        "checkOnSave": true,
+        "diagnostics": {
+          "experimental": {
+            "enable": true
+          }
+        },
+        "inlayHints": {
+          "maxLength": null,
+          "lifetimeElisionHints": {
+            "useParameterNames": true,
+            "enable": "skip_trivial"
+          },
+          "closureReturnTypeHints": {
+            "enable": "always"
+          },
+          "completion": {
+            "snippets": {
+              "custom": {
+                "Arc::new": {
+                  "postfix": "arc",
+                  "body": ["Arc::new(${receiver})"],
+                  "requires": "std::sync::Arc",
+                  "scope": "expr"
+                },
+                "Some": {
+                  "postfix": "some",
+                  "body": ["Some(${receiver})"],
+                  "scope": "expr"
+                },
+                "Ok": {
+                  "postfix": "ok",
+                  "body": ["Ok(${receiver})"],
+                  "scope": "expr"
+                },
+                "Rc::new": {
+                  "postfix": "rc",
+                  "body": ["Rc::new(${receiver})"],
+                  "requires": "std::rc::Rc",
+                  "scope": "expr"
+                },
+                "Box::pin": {
+                  "postfix": "boxpin",
+                  "body": ["Box::pin(${receiver})"],
+                  "requires": "std::boxed::Box",
+                  "scope": "expr"
+                },
+                "vec!": {
+                  "postfix": "vec",
+                  "body": ["vec![${receiver}]"],
+                  "description": "vec![]",
+                  "scope": "expr"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

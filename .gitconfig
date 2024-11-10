@@ -1,0 +1,18 @@
+[user]
+	name = kaidev0711
+	email = kaiz.developers@gmail.com
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
+[core]
+    editor = hx
+[color]
+    ui = auto
+[rerere]
+	enabled = true
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status

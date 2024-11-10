@@ -1,0 +1,6 @@
+inherits = "catppuccin_mocha"
+
+"ui.bufferline" = { fg = "surface2", bg = "mantle" }
+"ui.bufferline.active" = { fg = "lavender", bg = "mantle" }
+"ui.bufferline.background" = { bg = "mantle" }
+

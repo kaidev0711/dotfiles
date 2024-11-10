@@ -1,0 +1,83 @@
+# [[verbs]]
+# invocation = "edit"
+# shortcut = "e"
+# key = "ctrl-e"
+# apply_to = "text_file"
+# execution = "$EDITOR {file}"
+# leave_broot = false
+
+[[verbs]]
+invocation = "edit"
+key = "ctrl-e"
+shortcut = "e"
+execution = "/opt/homebrew/bin/hx +{line} {file}"
+apply_to = "text_file"
+leave_broot = false
+
+[[verbs]]
+invocation = "hxw"
+key = "Alt-e"
+shortcut = "hxw"
+execution = "hx-open.sh {file}"
+apply_to = "text_file"
+leave_broot = false
+
+[[verbs]]
+invocation = "create {subpath}"
+execution = "$EDITOR {directory}/{subpath}"
+leave_broot = false
+
+[[verbs]]
+invocation = "git_diff"
+shortcut = "gd"
+leave_broot = false
+execution = "git difftool -y {file}"
+
+[[verbs]]
+invocation = "backup {version}"
+key = "ctrl-b"
+leave_broot = false
+auto_exec = false
+execution = "cp -r {file} {parent}/{file-stem}-{version}{file-dot-extension}"
+
+[[verbs]]
+invocation = "terminal"
+key = "ctrl-t"
+execution = "$SHELL"
+set_working_dir = true
+leave_broot = false
+
+# my config
+[[verbs]]
+shortcut = "~rs"
+key = "ctrl-shift-r"
+internal = ":focus ~/Development/_rust/"
+
+[[verbs]]
+invocation = "home"
+key = "ctrl-shift-h"
+internal = ":focus ~"
+
+[[verbs]]
+key = "ctrl-o"
+internal = ":open_preview"
+
+[[verbs]]
+key = "ctrl-c"
+internal = ":close_preview"
+
+[[verbs]]
+key = "ctrl-h"
+internal = ":panel_left"
+
+[[verbs]]
+key = "ctrl-h"
+internal = ":panel_left_no_open"
+
+[[verbs]]
+key = "ctrl-l"
+internal = ":panel_right"
+
+[[verbs]]
+key = "ctrl-l"
+internal = ":panel_right_no_open"
