@@ -81,7 +81,8 @@ config.keys = {
 		{
 	    key = 'w',
 	    mods = 'LEADER',
-	    action = act.CloseCurrentPane { confirm = true },
+	    -- action = act.CloseCurrentPane { confirm = true },
+	    action = act.CloseCurrentPane { confirm = false },
   	},
 		{
 	    key = 'r',
