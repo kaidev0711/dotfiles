@@ -1,4 +1,4 @@
-default_flags = "-H"
+default_flags = "-gh"
 modal = true
 initial_mode = "command"
 show_selection_mark = true
@@ -28,5 +28,5 @@ file = "verbs.toml"
 
 [ext-colors]
 png = "rgb(255, 128, 75)"
-rs = "yellow"
+rs = "ansi(208)"
 toml = "ansi(105)"

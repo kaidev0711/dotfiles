@@ -38,6 +38,7 @@ alias rm="rm -i"
 alias brupr="brew update && brew upgrade && brew upgrade --cask"
 
 # alias br="br -dw"
+alias br="br -H"
 
 alias cat="bat -p --paging=never"
 alias ps="procs"

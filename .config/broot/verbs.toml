@@ -50,12 +50,17 @@ leave_broot = false
 # my config
 [[verbs]]
 shortcut = "~rs"
-key = "ctrl-shift-r"
+key = "alt-shift-r"
 internal = ":focus ~/Development/_rust/"
 
 [[verbs]]
+shortcut = "~md"
+key = "alt-shift-d"
+internal = ":focus ~/Docs"
+
+[[verbs]]
 invocation = "home"
-key = "ctrl-shift-h"
+key = "alt-shift-h"
 internal = ":focus ~"
 
 [[verbs]]
