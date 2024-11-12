@@ -1,6 +1,7 @@
 [user]
-	name = kaidev0711
+	name = Đặng Văn Tuấn
 	email = kaiz.developers@gmail.com
+	username = kaidev0711
 [init]
 	defaultBranch = main
 [push]
@@ -16,5 +17,7 @@
 	br = branch
 	ci = commit
 	st = status
+[github]
+	user=kaidev0711
 [credential]
 	helper = osxkeychain
