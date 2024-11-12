@@ -17,7 +17,5 @@
 	br = branch
 	ci = commit
 	st = status
-[github]
-	user=kaidev0711
-[credential]
-	helper = osxkeychain
+# [credential]
+# 	helper = osxkeychain
