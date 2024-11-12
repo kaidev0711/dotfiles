@@ -40,7 +40,7 @@ config.warn_about_missing_glyphs=false
 config.font_size = 16
 config.scrollback_lines = 3000
 config.window_close_confirmation = 'NeverPrompt'
-config.default_workspace = "kaidev0711"
+config.default_workspace = "KAIDEV0711"
 -- config.front_end = "WebGpu"
 config.default_cursor_style = "BlinkingBar"
 config.cursor_blink_rate = 400
@@ -76,23 +76,23 @@ config.keys = {
 		{ key = 'q', mods = 'LEADER', action = act.CloseCurrentPane { confirm = false }, },
 		{ key = 'r', mods = 'LEADER', action = act.ActivateKeyTable { name = 'resize_pane', one_shot = false, }, },
     { key = "w", mods = "LEADER", action = act.ShowLauncherArgs { flags = "FUZZY|WORKSPACES" } },
-
+	  { key = 'p', mods = 'LEADER', action = act.SwitchToWorkspace { name = 'RUST', }, },
 		-- { key = 'a', mods = 'LEADER', action = act.ActivateKeyTable { name = 'activate_pane', timeout_milliseconds = 1000, }, },
 }
 
 config.key_tables = {
 	resize_pane = {
-    { key = 'LeftArrow', action = act.AdjustPaneSize { 'Left', 1 } },
-    { key = 'h', action = act.AdjustPaneSize { 'Left', 1 } },
+    { key = 'LeftArrow', action = act.AdjustPaneSize { 'Left', 5 } },
+    { key = 'h', action = act.AdjustPaneSize { 'Left', 5 } },
 
-    { key = 'RightArrow', action = act.AdjustPaneSize { 'Right', 1 } },
-    { key = 'l', action = act.AdjustPaneSize { 'Right', 1 } },
+    { key = 'RightArrow', action = act.AdjustPaneSize { 'Right', 5 } },
+    { key = 'l', action = act.AdjustPaneSize { 'Right', 5 } },
 
-    { key = 'UpArrow', action = act.AdjustPaneSize { 'Up', 1 } },
-    { key = 'k', action = act.AdjustPaneSize { 'Up', 1 } },
+    { key = 'UpArrow', action = act.AdjustPaneSize { 'Up', 5 } },
+    { key = 'k', action = act.AdjustPaneSize { 'Up', 5 } },
 
-    { key = 'DownArrow', action = act.AdjustPaneSize { 'Down', 1 } },
-    { key = 'j', action = act.AdjustPaneSize { 'Down', 1 } },
+    { key = 'DownArrow', action = act.AdjustPaneSize { 'Down', 5 } },
+    { key = 'j', action = act.AdjustPaneSize { 'Down', 5 } },
 
     -- Cancel the mode by pressing escape
     { key = 'Escape', action = 'PopKeyTable' },

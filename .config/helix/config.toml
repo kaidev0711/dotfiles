@@ -1,6 +1,7 @@
 theme = "kanagawa"
 [editor]
-bufferline = "multiple"
+# bufferline = "multiple"
+bufferline = "always"
 # bufferline = "never"
 cursorline = true
 line-number = "absolute"
