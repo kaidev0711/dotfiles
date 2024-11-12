@@ -18,7 +18,3 @@
 	st = status
 [credential]
 	helper = osxkeychain
-
-
-
-
