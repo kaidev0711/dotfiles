@@ -4,6 +4,8 @@ local act = wezterm.action
 local config = {}
 if wezterm.config_builder then config = wezterm.config_builder() end
 
+
+
 config.color_scheme = 'Kanagawa (Gogh)'
 config.initial_cols = 150
 config.initial_rows = 40
