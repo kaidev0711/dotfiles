@@ -1,10 +1,9 @@
 local wezterm = require("wezterm")
 local act = wezterm.action
+local mux = wezterm.mux
 
 local config = {}
 if wezterm.config_builder then config = wezterm.config_builder() end
-
-
 
 config.color_scheme = 'Kanagawa (Gogh)'
 config.initial_cols = 150
@@ -59,6 +58,39 @@ config.window_padding = {
 	bottom = 0,
 }
 config.hyperlink_rules = wezterm.default_hyperlink_rules()
+
+
+wezterm.on('gui-startup', function(cmd)
+
+	local args = {}
+	if cmd then
+		args = cmd.args
+	end
+
+	local rust_dir = wezterm.home_dir .. '/Development/_rust'
+	local tab, pane, window = mux.spawn_window {
+    workspace = 'RUST',
+    cwd = rust_dir,
+    args = args,
+  }
+  local editor_pane = pane:split {
+    direction = 'Top',
+    size = 0.7,
+    cwd = rust_dir,
+  }
+
+	editor_pane:send_text 'br\n'
+  pane:send_text ''
+
+  local tab, pane, window = mux.spawn_window {
+    workspace = 'KAIDEV0711',
+    args = args,
+  }
+
+  -- We want to startup in the coding workspace
+  mux.set_active_workspace 'KAIDEV0711'
+
+end)
 
 
 config.leader = { key = 'b', mods = 'CTRL' }
