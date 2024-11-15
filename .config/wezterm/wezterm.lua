@@ -5,7 +5,12 @@ local mux = wezterm.mux
 local config = {}
 if wezterm.config_builder then config = wezterm.config_builder() end
 
-config.color_scheme = 'Kanagawa (Gogh)'
+-- config.color_scheme = 'Kanagawa (Gogh)'
+config.color_scheme = 'kanagawabones'
+-- config.color_scheme = 'nord-light'
+-- config.color_scheme = 'nord'
+-- config.color_scheme = 'GruvboxLight'
+-- config.color_scheme = 'Everforest Light (Gogh)'
 config.initial_cols = 150
 config.initial_rows = 40
 config.enable_tab_bar = false
@@ -36,6 +41,7 @@ config.font = wezterm.font_with_fallback {
   	weight = 'Bold',
    	style="Italic"
   },
+  "Broot Icons Visual Studio Code"
 }
 config.warn_about_missing_glyphs=false
 config.font_size = 16

@@ -21,3 +21,64 @@
     tag_fg: Some("#f5e0dc"),
     branch_fg: Some("#94e2d5")
 )
+// (
+//     // Foreground Colors (fg)
+//     text_fg: Some(Rgb(92, 106, 114)),          // #5C6A72 - fg0
+//     command_fg: Some(Rgb(92, 106, 114)),       // #5C6A72 - fg0
+//     selection_fg: Some(Rgb(92, 106, 114)),     // #5C6A72 - fg0
+//     cmdbar_extra_lines_fg: Some(Rgb(92, 106, 114)), // #5C6A72 - fg0
+//     disabled_fg: Some(Rgb(128, 141, 149)),     // #808D95 - fg1 (dimmed)
+
+//     // Background Colors (bg)
+//     text_bg: Some(Rgb(253, 246, 227)),         // #FDF6E3 - bg0/background
+//     cmdbar_bg: Some(Rgb(253, 246, 227)),       // #FDF6E3 - bg0/background
+//     cmdbar_extra_lines_bg: Some(Rgb(253, 246, 227)), // #FDF6E3 - bg0
+//     command_bg: Some(Rgb(239, 241, 236)),      // #EFF1EC - bg1
+
+//     // Selection & Highlights
+//     selection_bg: Some(Rgb(233, 239, 236)),    // #E9EFF0 - bg2
+//     command_palette_selected_bg: Some(Rgb(233, 239, 236)), // #E9EFF0 - bg2
+
+//     // Diff Colors
+//     diff_line_add: Some(Rgb(135, 154, 100)),   // #879A64 - green
+//     diff_line_delete: Some(Rgb(230, 126, 128)), // #E67E80 - red
+//     diff_file_added: Some(Rgb(135, 154, 100)),  // #879A64 - green
+//     diff_file_removed: Some(Rgb(230, 126, 128)), // #E67E80 - red
+//     diff_file_moved: Some(Rgb(219, 177, 97)),   // #DBB161 - yellow
+//     diff_file_modified: Some(Rgb(215, 153, 33)), // #D79921 - orange
+
+//     // Git Status Colors
+//     file_added_fg: Some(Rgb(135, 154, 100)),   // #879A64 - green
+//     file_modified_fg: Some(Rgb(215, 153, 33)),  // #D79921 - orange
+//     file_deleted_fg: Some(Rgb(230, 126, 128)),  // #E67E80 - red
+//     file_renamed_fg: Some(Rgb(219, 177, 97)),   // #DBB161 - yellow
+
+//     // Status Indicators
+//     status_success_fg: Some(Rgb(135, 154, 100)), // #879A64 - green
+//     status_error_fg: Some(Rgb(230, 126, 128)),   // #E67E80 - red
+//     status_warn_fg: Some(Rgb(219, 177, 97)),     // #DBB161 - yellow
+//     danger_fg: Some(Rgb(230, 126, 128)),         // #E67E80 - red
+
+//     // Git Elements
+//     commit_hash: Some(Rgb(167, 192, 128)),      // #A7C080 - light green
+//     commit_time: Some(Rgb(128, 141, 149)),      // #808D95 - fg1
+//     commit_author: Some(Rgb(92, 106, 114)),     // #5C6A72 - fg0
+//     branch_fg: Some(Rgb(167, 192, 128)),        // #A7C080 - light green
+//     tag_fg: Some(Rgb(215, 153, 33)),            // #D79921 - orange
+
+//     // Push/Pull Gauge
+//     push_gauge_bg: Some(Rgb(233, 239, 236)),    // #E9EFF0 - bg2
+//     push_gauge_fg: Some(Rgb(92, 106, 114)),     // #5C6A72 - fg0
+
+//     // Command Palette
+//     command_palette_bg: Some(Rgb(253, 246, 227)), // #FDF6E3 - bg0
+//     command_palette_fg: Some(Rgb(92, 106, 114)),  // #5C6A72 - fg0
+//     command_palette_selected_fg: Some(Rgb(92, 106, 114)), // #5C6A72 - fg0
+
+//     // Search
+//     search_match_fg: Some(Rgb(215, 153, 33)),   // #D79921 - orange
+//     search_match_bg: Some(Rgb(233, 239, 236)),  // #E9EFF0 - bg2
+
+//     // Selected Tab
+//     selected_tab: Some(Rgb(128, 141, 149)),     // #808D95 - fg1
+// )

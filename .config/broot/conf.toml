@@ -12,9 +12,13 @@ icon_theme = "nerdfont"
 
 [[imports]]
 luma = ["dark", "unknown"]
-# file = "skins/native-16.toml"
+file = "skins/native-16.toml"
 # file = "skins/catppuccin-mocha.toml"
-file = "skins/kanagawa.toml"
+# file = "skins/kanagawa.toml"
+
+# [[imports]]
+# luma = ["light"]
+# file = "skins/white.toml"
 
 [[imports]]
 file = "verbs.toml"
