@@ -5,25 +5,14 @@ local mux = wezterm.mux
 local config = {}
 if wezterm.config_builder then config = wezterm.config_builder() end
 
--- config.color_scheme = 'Kanagawa (Gogh)'
 config.color_scheme = 'kanagawabones'
--- config.color_scheme = 'nord-light'
--- config.color_scheme = 'nord'
--- config.color_scheme = 'GruvboxLight'
--- config.color_scheme = 'Everforest Light (Gogh)'
 config.initial_cols = 150
 config.initial_rows = 40
 config.enable_tab_bar = false
 -- config.window_decorations = "TITLE | RESIZE"
 config.window_decorations = "RESIZE"
 config.window_background_opacity = 1.0
--- config.window_background_opacity = 0.8
 config.macos_window_background_blur = 0
--- config.font = wezterm.font(
--- 	"Cascadia Code",
--- 	-- { weight="Bold", italic=false }
--- 	{ weight="Bold", stretch="Normal", style="Normal" }
--- )
 config.font = wezterm.font_with_fallback {
 	{
     family = 'Cascadia Code',

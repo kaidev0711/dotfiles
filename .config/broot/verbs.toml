@@ -49,12 +49,12 @@ leave_broot = false
 
 # my config
 [[verbs]]
-shortcut = "~rs"
+shortcut = "rs"
 key = "alt-shift-r"
 internal = ":focus ~/Development/_rust/"
 
 [[verbs]]
-shortcut = "~md"
+shortcut = "md"
 key = "alt-shift-d"
 internal = ":focus ~/Docs"
 
