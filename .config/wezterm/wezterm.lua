@@ -68,14 +68,15 @@ wezterm.on('gui-startup', function(cmd)
     cwd = rust_dir,
     args = args,
   }
-  local editor_pane = pane:split {
-    direction = 'Top',
-    size = 0.7,
-    cwd = rust_dir,
-  }
+  -- local editor_pane = pane:split {
+  --   direction = 'Top',
+  			-- size = 0.7,
+  --   cwd = rust_dir,
+  -- }
 
-	editor_pane:send_text 'br\n'
-  pane:send_text ''
+	-- editor_pane:send_text 'br\n'
+	pane:send_text 'br\n'
+  -- pane:send_text ''
 
   local tab, pane, window = mux.spawn_window {
     workspace = 'KAIDEV0711',
