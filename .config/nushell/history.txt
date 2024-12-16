@@ -1,0 +1,6648 @@
+l
+clear
+ls -la
+clear
+l
+clear
+ls
+clear
+l
+ls
+cd .config
+l
+ls
+cd nushell/
+ls
+hx .
+cat /etc/shells
+ls
+hx .
+cd wezterm
+cd .config
+l
+ls
+cd wezterm/
+hx .
+ls
+clear
+l
+ls
+cd .config
+l
+ls
+cd nushell/
+l
+ls
+clear
+l
+sclear
+l
+clear
+ls
+hx .
+ls
+cd ls
+cd .local
+l
+ls
+cd 
+clear
+cd .local
+l
+ls
+cd scripts/
+ls
+hx .
+ls
+cd nu
+cd .config
+l
+ls
+clear
+ls
+cd
+ls
+cd .config/nushell
+l
+ls
+clear
+hx .
+source env.nu
+ls
+clear
+l
+clear
+l
+ls
+clear
+ưhich 
+which nu
+clear
+hx .
+broot
+br
+broot
+l
+ls
+hx .zshrc
+cd
+hx .
+source env.nu
+clear
+br
+broot
+clear
+br
+clear
+l
+clear
+br
+zshrc
+hx .zshrc
+clear
+ls
+brupr
+ls
+clear
+l
+clear
+ls
+cd ..
+l
+ls
+cd broot
+l
+ls
+cd launcher/
+l
+ls
+cd ..
+ls
+cd launcher/
+ls
+cd báh
+hx .
+broot --install
+ls
+broot --print-shell-function nushell
+reload
+ls
+cd ..
+l
+ls
+hx .
+br
+nushell
+ls
+br
+clear
+ll
+ls
+clear
+cd nushell
+ls
+cd .config/nushell
+l
+ls
+clear
+hx .
+cd 
+cd .local/scripts
+hx .
+open 
+ls
+cd 
+l
+clear
+l
+ls
+cd .config
+cd nushell
+l
+ls
+hx .
+br
+clear
+l
+ls
+hx .
+ls
+hx config.nu
+clear
+hx /Users/tuandang/.config/nushell/env.nu
+clear
+br
+source env.nu
+hx .
+source env.nu
+clear
+l
+open
+open .
+ls
+hx .
+cd ..
+l
+cd broot
+hx .
+br
+l
+ls
+clear
+ls
+cd ..
+l
+hx .
+cd nushell
+l
+ls
+open .
+hx .
+reload
+source env.nu
+ls
+echo $PATH
+echo path
+echo $PATH
+echo $env.PATH
+clear
+open .
+hx .
+nu-open .
+nu-open
+open .
+hx .
+source env.nu
+open
+open .
+clear
+l
+hx .
+source env.nu
+hx .
+reload
+source env.nu
+hx .
+to
+tock 
+ppsh
+clear
+pipe.sh
+clear
+l
+cd
+ls
+cd .config
+l
+hx .
+cd .config
+l
+ls
+cd nushell/
+hx .
+clear
+source env.nu
+hx .
+source env.nu
+hx .
+source env.nu
+source config.nu
+clear
+l
+ls
+ls -l
+ls -al
+ls
+cd scripts/
+hx .
+ls
+rm -rf alias.nu
+ls
+cd ..
+l
+ls
+clear
+hx aliases.nu
+ls
+clear
+hx .
+source config.nu
+open
+open .
+clear
+which hx
+hx .
+:q
+source config.nu
+clear
+source env.nu
+hx .
+hx .
+source env.nu
+hx .
+ls
+source env.nu
+clear
+echo $env.LANG
+clear
+hx ~/.zshrc
+top
+btm
+br
+clear
+hx .
+source env.nu
+source aliases.nu
+clear
+ls
+touch abc.py
+l
+ls
+rm abc.py
+clear
+l
+ls
+clear
+hx .
+rmds
+source aliases.nu
+rmds
+ls
+cd
+rmds
+clear
+cd .config
+l
+ls
+cd nushell/
+hx .
+source aliases.nu
+brupr
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+clear
+brupr
+source aliases.nu
+clear
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+source config.nu
+br
+ls
+hx .
+source config.nu
+source aliases.nu
+hx .
+source aliases.nu
+ls
+brupr
+clear
+l
+ls
+hx aliases.nu
+source aliases.nu
+btm
+top
+cclear
+clear
+hx aliases.nu
+source aliases.nu
+gx ,
+hx .
+source aliases.nu
+ju
+find
+find aliases.nu
+info
+ip
+clear
+to
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+clear
+hxrg
+source aliases.nu
+hx .
+mkdir help
+ls
+rm -rf help
+l
+ls
+mkdir --help
+hx .
+ls
+mkcd test
+source aliases.nu
+mkcd test
+ls
+ls 
+ls
+pưd
+pwd
+hx .
+source aliases.nu
+ls
+rm -rf test
+ls
+mkcd test
+ls
+pưd
+clear
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+ls
+rm -rf test
+mkcd test
+ls
+pwd
+rm -rf test
+hx .
+source aliases.nu
+mkcd test
+l
+ls
+pwd
+cd ..
+ls
+rm -rf test
+ls
+clear
+ls
+hx aliases.nu
+source aliases.nu
+trê
+tree
+hx .
+source aliases.nu
+tree
+ls
+clear
+l
+ls
+hx .
+ls
+clear
+l
+ls
+orb
+clear
+hx .
+cd
+ls
+ls -la
+ls -a
+cd .pulse/
+hs
+ls
+hx config.yaml
+br
+ls
+cd ..
+l
+ls 
+ls -a
+rm -rf .pulse/
+clear
+l
+ls
+ls -la
+clear
+ls -a
+du
+clear
+ls -a
+orb
+cd .orbstack/
+ls
+cd shell/
+ls
+hx .
+cd ..
+l
+clear
+l
+ls
+cd 
+clear
+ls
+clear
+mkdir ~/.local/share/atuin/<\n>atuin init nu | save ~/.local/share/atuin/init.nu
+ls
+cd .local
+l
+ls -la
+cd share/
+ls
+cd atuin
+ls
+hx init.nu
+hx .
+cd 
+cd .config
+ls
+cd nushell/
+hx .
+l
+clear
+ls
+atuin
+:q
+source config.nu
+clear
+atuin-update
+clear
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+hx .
+source config.nu
+ls
+clear
+l
+cd tutorial
+clear
+cd tutorial
+hx .
+cd 
+ls
+cd Dev
+ls
+cd _rust
+cd tutorial/
+ls
+clear
+ls
+clear
+hx .
+cd nushell
+cd 
+cd .config
+ls
+cd nushell/
+hx .
+source env.nu
+ls
+clear
+hx .
+clear
+source env.nu
+clear
+cd ..
+cd share/
+cd starship/
+hx .
+lx 
+ls
+cd ..
+l
+cd nushell
+hx .
+source env.nu
+clear
+ls
+hx .
+source env.nu
+lcear
+clear
+hx .
+source config.nu
+clear
+echo $env.PATH
+clear
+hx .
+source config.nu
+clear
+c
+clear
+hx .
+source config.nu
+c
+cc
+clear
+hx .
+source aliases.nu
+c
+source aliases.nu
+clear
+hx .
+ls
+source aliases.nu
+clear
+source config.nu
+clear
+ls
+á
+as
+clear
+hx .
+source aliases.nu
+ff
+f
+ff
+clear
+hx .
+source aliases.nu
+ffas
+clear
+l
+clear
+aerospace
+clear
+ls
+br
+clear
+hx ~/.zshrc
+bat ~/.zshrc
+clear
+ls
+hx .
+hx .
+source env.nu
+clear
+bat ~/.zshrc
+hx .
+source env.nu
+clear
+hx .
+echo $env.PATH
+l
+clear
+eza
+eza ls
+ls
+ls -al
+clear
+hx .
+echo $env.PATH
+clear
+l
+ls
+cd
+lc
+clear
+hx .
+cd nushell
+clear
+cd .config
+ls
+cd nushell/
+clear
+hx .
+source env.nu
+ls
+source config.nu
+clear
+cd
+cd nushell
+cd .config
+cd nushell/
+hx .
+source config.nu
+clear
+ls
+hx .
+zoxide init nushell | save -f ~/.cache/zoxide/init.nu<\n>
+ls
+cd cache
+ls
+cd
+ls
+cd .cache
+ls
+mkcd zoxide
+mkdir zoxide
+ls
+clear
+hx .
+source env.nu
+ls
+clear
+ls
+zoxide init nushell | save -f ~/.cache/zoxide/init.nu
+ls
+hx .
+source config.nu
+clear
+cd
+l
+cd nushel
+cd nushell
+clear
+ls
+cd .cache
+l
+ls
+cd zoxide/
+ls
+hx init.nu
+cd
+l
+ls
+ls -a
+rm -rf .zoxide.nu
+clear
+ls
+clear
+ls -a
+lldb-dap
+ls
+clear
+l
+ls -la
+ls -a
+ls | sort
+ls -a | sort
+clear
+ls
+clear
+ls
+-la
+cd
+z nushell
+clear
+l
+clear
+hx .
+source aliases.nu
+clear
+cd 
+cd nushell
+clear
+l
+clear
+l
+which cd
+clear
+hx .
+echo $env.PATH
+hx .
+source aliases.nu
+source env.nu
+echo $env.PATH
+hx .
+source env.nu
+hx .
+source config.nu
+hx .
+echo $env.PATH
+source config.nu
+source env.nu
+echo $env.PATH
+hx .
+source env.nu
+source config.nu
+clear
+echo $env.PATH
+source config.nu
+clear
+hx .
+source config.nu
+echo $env.PATH
+hx .
+source config.nu
+clear
+echo $env.PATH
+hx .
+ls
+echo $env.PATH
+clear
+hx .
+echo $env.PATH
+hx .
+source config.nu
+source
+source config.nu
+hx .
+source config.nu
+hx .
+ls
+cd
+ls
+ls -la
+rm .zoxide.nu
+ls
+cd .cache
+ls
+cd zoxide
+l
+ls
+rm init.nu
+ls
+clear
+cd
+l
+cd nushell
+cd nusell
+l
+ls
+cd .config
+ls
+hx .
+cd nushell/
+ls
+hx .
+source config.nu
+source env.nu
+clear
+souce config.nu
+source config.nu
+hx 
+hx .
+cd zoxide
+cd 
+ls
+cd .cache
+ls
+cd zoxide/
+ls
+hx init.nu
+cd nushell
+cd .
+cd
+cd nushell
+cd .config
+cd nushell/
+hx .
+source config.nu
+ls
+clear
+ls
+cd nushell/
+cd .config
+cd nushell/
+hx. 
+hx .
+source config.nu
+clear
+cd 
+cd nushell
+z nushell
+l
+clear
+cd .cache
+cd
+cd .cache
+ls
+cd zoxide/
+hx .
+cd 
+cd nushell
+hx .
+zoxide init nushell | save -f ~/.cache/zoxide/init.nu
+cd nushell
+ls
+l
+ls
+ls -a
+ls
+cd 
+ls
+hx .
+cd nushell
+cd .config/nushell/
+hx 
+source env.nu
+source config.nu
+clear
+ls
+cd
+ls 
+ls -a
+hx .zoxide.nu
+clear
+cd nushell
+zoxide init nushell | save -f ~/.cache/zoxide/init.nu
+hx .
+cd zoxide
+rm -rf .zoxide.nu
+ls
+ls -la
+cd .config/nushell/
+hx .
+source config.nu
+source env.nu
+clear
+hx .
+jx .
+cd 
+cd cache
+cd .config/nushell/
+hx .
+cdi
+cd 
+cd .cache
+ls
+cd zoxide/
+hx .
+zoxide init --cmd cd nushell | save -f ~/.cache/zoxide/init.nu
+hx .
+clear
+ls
+cd 
+ls
+cd zoxide
+source env.nu
+cd 
+cd nushell
+cd .config
+cd nushell
+clear
+l
+ls
+cd
+cd nushell
+cd .cache/
+hx .
+cd .config/nushell/
+hx .
+source config.nu
+source env.nu
+hx .
+ls
+clear
+source env.nu
+clear
+cd 
+ls
+clear
+cd nushell
+cd 
+cd nushell
+clear
+hx .
+clear
+gt
+hx .
+gitui
+clear
+source aliases.nu
+gt
+clear
+hx .
+ls -al
+ls -a
+clear
+hx .
+source aliases.nu
+source config.nu
+clear
+l
+ls
+ls 
+ls -la
+ls
+ls -la
+clear
+hx .
+l
+ls
+clear
+ls -la
+cd 
+ls -a
+clear
+brew list
+brupr
+l
+clear
+c
+clear
+hx .
+cd nushell
+ls
+hx .
+source config.nu
+echo $env.PATH
+brew doctor
+ls
+ls -la
+clear
+l
+clear
+l
+clear
+ls
+clear
+cd tutorial
+clear
+hx .
+hx --health rust
+clear
+cd 
+ls
+clear
+cd nushell
+clear
+hx .
+ls
+cd wezterm
+hx .
+ls
+clear
+l
+clear
+l
+clear
+l
+clear
+ls
+cd broot
+l
+hx .
+br
+clear
+l
+clear
+cd nushell
+ls
+br
+cd wezterm
+ls
+clear
+hx .
+clear
+cd nushell
+clear
+ls
+l
+ls
+clear
+ls
+mkcd themes
+hx .
+mkcd 
+source aliases.nu
+clear
+mkcd themes
+ls
+hx .
+hx nord.nu
+clear
+cd ..
+l
+source themes/nord.nu
+ls
+ls -la
+clear
+ls
+hx .
+source config.nu
+clear
+l
+ls -la
+clear
+l
+clear
+hx .
+source config.nu
+x
+x 
+source ~/.config/nushell/aliases.nu
+clear
+x
+xta
+xt
+xla
+xl
+xa
+x
+clear
+ls 
+clear
+ls
+clear
+ls
+x
+xta
+xla
+clear
+l
+clear
+l
+clear
+ls -la
+clear
+btm
+clear
+l
+clear
+cd we
+hx .
+ls
+clear
+ls -a
+clear
+hx .
+l
+sclear
+l
+clear
+ls
+clear
+ls
+cd nushell
+clear
+mise
+mise up
+clear
+hx .
+source config.nu
+which cargo
+rustup
+rustup update stable
+source config.nu
+source env.nu
+clear
+source config.nu
+clear
+rustup update stable
+hx .
+source config.nu
+hx .
+cd cargo
+ls
+hx env
+source config.nu
+cd nushell
+l
+source config.nu
+hx .
+source config.nu
+clear
+hx .
+source config.nu
+hx .
+source config.nu
+source env.nu
+source config.nu
+hx .
+source env.nu
+source config.nu
+ls
+cd nushell
+ls
+ls -la
+clear
+hx .
+source config.nu
+hx .
+source config.nu
+source env.nu
+ls
+ls -la
+clear
+hx .
+source env.nu
+source config.nu
+clear
+l
+ls -la
+clear
+hx 
+source config.nu
+clear
+hx .
+source config.nu
+clear
+source env.nu
+clear
+l
+clear
+l
+clear
+l
+clear
+l
+ls 
+clear
+cd .cargo
+ls
+hx .
+hx .
+source env.nu
+source config.nu
+rustup update stable
+clear
+l
+to
+clear
+hx env
+clear
+cd
+clear
+br
+clear
+echo $env.PATH
+hx .
+sourc env.nu
+source env.nu
+clear
+echo $env.PATH
+clear
+clear
+echo $env.PATH
+brew list
+clear
+cd tutorial
+hx .
+hx --health rust
+clear
+hx .
+cd nushell
+l
+clear
+hx .
+source config.nu
+echo $env.PATH
+hx --health rust
+clear
+hx ~/.zshrc
+echo $env.config
+clear
+l
+source $env.config
+clear
+hx .
+source $env.config
+source config.nu
+xa
+xt
+xta
+tree
+clear
+hx ~/.zshrc
+brew reinstall llvm
+hx ~/.zshrc
+cd 
+ls
+ls -a
+hx .zoxide.nu
+rm .zoxide.nu
+hx .
+source env.nu
+clear
+ls
+clear
+cd nushell
+clear
+l
+cd 
+ls
+ls -a
+clear
+hx .
+brew reinstall llvm
+echo $env.config
+clear
+ll
+hx --health rust
+clear
+hx .
+cd tutorial
+hx .
+ls
+hx .
+cd nushell
+l
+hx .
+source env.nu
+clear
+l
+cd
+l
+cd nushell
+source config.nu
+ls
+clear
+python --version
+mise 
+clear
+ls
+deno
+deno --version
+ls
+cd .local
+ls
+cd bin
+l
+ls
+cd ..
+l
+ls
+cd state/
+l
+sls
+ls
+cd mise
+l
+ls
+hx .
+cd ..
+clear
+hx .
+source env.nu
+source config.nu
+hx .
+source config.nu
+ls
+mise list
+python --version
+deno --version
+clear
+hx .
+source config.nu
+hx .
+clear
+mise up
+clear
+source config.nu
+hx .
+source config.nu
+source env.nu
+clear
+'<\n>let mise_path = $nu.default-config-dir | path join mise.nu<\n>^mise activate nu | save $mise_path --force<\n>' | save $nu.env-path --append<\n>"\nuse ($nu.default-config-dir | path join mise.nu)" | save $nu.config-path --append
+ls
+source config.nu
+hx .
+source env
+source env.nu
+ls
+clear
+cd nushell
+l
+ls
+hx .
+clear
+source env.nu
+source config.nu
+ls
+"\n$env.NU_LIB_DIRS ++= ($mise_path | path dirname | to nuon)" | save $nu.env-path --append
+hx .
+'<\n>let mise_path = $nu.default-config-dir | path join scripts/mise.nu<\n>^mise activate nu | save $mise_path --force<\n>' | save $nu.env-path --append<\n>"\nuse ($nu.default-config-dir | path join scripts/mise.nu)" | save $nu.config-path --append
+ls
+cd scripts/
+ls
+hx .
+cd ..
+l
+s
+ls
+rm mise.nu
+clear
+l
+ls
+souce config.nu
+'<\n>let mise_path = $nu.default-config-dir/scripts | path join mise.nu<\n>^mise activate nu | save $mise_path --force<\n>' | save $nu.env-path --append<\n>"\nuse ($nu.default-config-dir/scripts | path join mise.nu)" | save $nu.config-path --append
+ls
+hx .
+ls
+cd scripts
+ls
+cd ..
+ls
+hx .
+source env.nu
+hx .
+'<\n>let mise_path = $nu.default-config-dir | path join mise.nu<\n>^mise activate nu | save $mise_path --force<\n>' | save $nu.env-path --append<\n>"\nuse ($nu.default-config-dir | path join mise.nu)" | save $nu.config-path --append
+source env.nu
+clear
+ls
+hx .
+clear
+source env.nu
+clear
+source config.nu
+"\n$env.NU_LIB_DIRS ++= ($mise_path | path dirname | to nuon)" | save $nu.env-path --append
+hx .
+ls
+clear
+hx .
+source config.nu
+ls
+hx .
+mise up
+clear
+cd cache
+l
+ls
+sk
+cd 
+sk
+skim
+sk 
+clear
+sk
+clear
+ffrg
+sk
+clear
+sk
+cargo install nu_plugin_skim
+clear
+plugin add ~/.cargo/bin/nu_plugin_skim
+cd nushell
+l
+ls
+cd plugins/
+ls
+cd ..
+l
+ls
+hx .
+clear
+sk
+cd 
+sk
+ls
+clear
+ps | sk --format {get name} --preview {}
+sk
+> ps | sk --format {get name} --preview {} | kill $in.pid
+ps | sk --format {get name} --preview {} | kill $in.pid
+skrg
+skfd
+skff
+hx ~/.zshrc
+cd skim
+ls
+cd .còonig
+l
+cd nushell
+ls
+hx plugin.msgpackz
+br
+clear
+ps | sk --format {get name} --preview {} | kill $in.pid
+sk
+skrg
+def skrg [] {<\n>    sk --ansi -i -c 'rg --color=always --line-number {}'<\n>}
+hx .
+source aliases.nu
+hx .
+ffas
+clear
+cd nushell
+cd ~/.cònoig
+cd .config
+cd nushell
+hx .
+ffas
+cd ~/.config/nushell/
+hx .
+sk --preview 'bat {} --color=always'
+sk
+c d
+cd 
+sk
+cd 
+ls
+sk
+plugin use 'skim'
+ls
+clear
+sk
+hx .
+cd ~/.config
+cd nushell
+hx .
+sk
+sk --ansi -i -c 'rg --color=always --line-number "{}"'<\n>
+sk --ansi -i -c 'ag --color "{}"' --preview "preview.sh {}"<\n>
+bat 
+sk --ansi -i -c 'ag --color "{}"' --preview "preview.sh {}"
+sk -i -c 'ag --color "{}"' --preview "preview.sh {}"<\n>
+sl
+clear
+l
+ls
+cd nushell
+l
+ls
+hx .
+rm plugin.msgpackz
+ls
+clear
+l
+slc
+clear
+sk
+ls
+hx .
+clear
+ls
+c
+cd nushell
+l
+ls
+br
+hx .
+ls
+clear
+hx ~/.zshrc
+sk 
+l
+ls
+clear
+l
+clear
+l
+ls
+clear
+hx .
+source aliases.nu
+hx .
+source aliases.nu
+ls
+ffas
+ls
+sk
+clear
+hx .
+reload
+sk
+source aliases.nu
+hxrg
+ffrg
+source aliases.nu
+hxfd
+clear
+source config.nu
+source aliases.nu
+clear
+fffd
+ls
+hxfd
+brew uninstall sk
+brew cleanup
+brew autoremove
+clear
+l
+ls
+cargo remove nu_plugin_skim
+cargo uninstall nu_plugin_skim
+ls
+br
+clear
+ls
+cd 
+lsls
+ls
+ls -a
+rmds
+clear
+rmds
+clear
+l
+ls
+ls -a
+x
+xta
+clear
+brew install fzf
+clear
+brew cleanup
+hx .
+source aliases.nu
+clear
+source config.nu
+brupr
+ffas
+clear
+clear
+fzf
+cd
+cd nushell
+clear
+fzf
+ppsh
+clear
+fzf
+clear
+ls fzf
+~/.zshrcls
+clear
+ls 
+find * -type f | fzf > selected<\n>
+find * -type f | fzf 
+fzf
+clear
+hx $(fzf)<\n>
+clear
+fzf --height 40% --layout reverse --border<\n>
+hx fzf --height 40% --layout reverse --border<\n>
+fzf --height 40%<\n>
+fzf --preview 'bat --color=always {}' --preview-window '~3'<\n>
+cd tutorial
+fzf --preview 'bat --color=always {}' --preview-window '~3'<\n>
+hx fzf
+hx | fzf
+hx | fzf --preview 'bat --color=always {}' --preview-window '~3'<\n>
+clear
+l
+clear
+FZF_DEFAULT_COMMAND='fd --type f --strip-cwd-prefix'
+fd --type f --strip-cwd-prefix | fzf<\n>
+fzf
+:q
+hx .
+source config.nu
+hx .
+source config.nu
+source env.nu
+clear
+source config.nu
+hx .
+source config.nu
+fzf
+ls
+hx .
+source config.nu
+source env.nu
+hx .
+source env.nu
+source config.nu
+hx .
+ls
+clear
+fzf
+cd nushell
+hx .
+source config.nu
+source env.nu
+clear
+fzf
+ls
+clear
+fzf
+hx .
+source env.nu
+hx .
+source env.nu
+source config.nu
+clear
+gxg
+fzf
+cd nushell
+fzf
+cd 
+fzf
+ls
+clear
+ls -la
+rm .lesshst
+clear
+cd nushell
+ls
+clear
+ls -la
+clear
+sl
+sls
+hx .
+clear
+ls
+<\n><\n>
+<\n>
+clear
+ls
+cd wezterm
+hx .
+hx .
+source config.nu
+clear
+ls
+cd nushell
+fzf
+ls
+cd nushell
+l
+ls
+hx .
+source config.nu
+hx .
+fzf
+cd nushell
+ls
+fd --type f --strip-cwd-prefix | fzf<\n>
+ffas
+clear
+fd --type f --strip-cwd-prefix --hidden --follow --exclude .git
+hx .
+source config.nu
+source aliases.nu
+fzf
+clear
+hx | fzf
+clear
+fzf
+clear
+hx .
+source aliases.nu
+fzf
+hx .
+source aliases.nu
+source config.nu
+fzf
+ls
+clear
+hx .
+cd nushell
+ls
+hx .
+source config.nu
+source env.nu
+clear
+fzf
+clear
+find * | fzf --prompt 'All> ' \<\n>             --header 'CTRL-D: Directories / CTRL-F: Files' \<\n>             --bind 'ctrl-d:change-prompt(Directories> )+reload(find * -type d)' \<\n>             --bind 'ctrl-f:change-prompt(Files> )+reload(find * -type f)'
+fd --type file |<\n>  fzf --prompt 'Files> ' \<\n>      --header 'CTRL-T: Switch between Files/Directories' \<\n>      --bind 'ctrl-t:transform:[[ ! $FZF_PROMPT =~ Files ]] &&<\n>              echo "change-prompt(Files> )+reload(fd --type file)" ||<\n>              echo "change-prompt(Directories> )+reload(fd --type directory)"' \<\n>      --preview '[[ $FZF_PROMPT =~ Files ]] && bat --color=always {} || tree -C {}'
+#!/usr/bin/env bash<\n><\n># 1. Search for text in files using Ripgrep<\n># 2. Interactively narrow down the list using fzf<\n># 3. Open the file in Vim<\n>rg --color=always --line-number --no-heading --smart-case "${*:-}" |<\n>  fzf --ansi \<\n>      --color "hl:-1:underline,hl+:-1:underline:reverse" \<\n>      --delimiter : \<\n>      --preview 'bat --color=always {1} --highlight-line {2}' \<\n>      --preview-window 'up,60%,border-bottom,+{2}+3/3,~3' \<\n>      --bind 'enter:become(vim {1} +{2})'
+fzf
+hx .
+cd nu
+ls
+hx .
+fzf
+clear
+hx .
+source env.nu
+fzf
+ls
+hx .
+cd nushell
+l
+lx
+ls
+hx .
+fzf
+cd tutorial
+fzf
+cd nush
+clear
+hx .
+fzf
+ls
+bat --list-themes
+clear
+l
+cd nushel
+ls
+cat ~/.zshrc
+clear
+l
+clear
+cd nushell
+clear
+ls
+hx .
+ls
+fzf
+fzf --preview 'fzf-preview.sh {}'<\n>
+cd tutorial
+fzf
+fzf --preview 'fzf-preview.sh {}'<\n>
+fzf
+fzf --preview 'fzf-preview.sh {}'<\n>
+cd nushell
+hx .
+source env.nu
+source config.nu
+fzf
+cd tutorial
+fzf
+clear
+ps -ef | fzf<\n>
+seq 100 | fzf<\n>
+history | fzf<\n>
+clear
+fzf
+cd nushell
+hx .
+cd nushell
+hx .
+ls
+fzf
+cd tutorial
+fzf
+clear
+fzf --bind 'enter:become(hx {})'<\n>
+cd núuhel
+cd nus
+clear
+hx .
+hxff
+:q
+cd tutorial
+clear
+hxff
+hx .
+cd tutorial
+cd nu
+hx .
+clear
+br
+cd wezterm
+br
+cd wezterm
+hx .
+br
+cd wezterm
+hx .
+cd nu
+ls
+hx .
+br
+cd we
+l
+hx .
+br
+cd we
+hx .
+br
+cd nu
+hx. 
+hx .
+cd wezterm
+hx .
+cd wezterm
+hx .
+cd wezterm
+hx.
+hx.hx .
+hx .
+ls
+cd wezterm
+hx .
+br
+clear
+cd wezterm
+hx .
+cd wezterm
+cd scripts
+hx .
+cd 
+cd srcipr
+cd .local
+l
+ls
+hx .
+cd scripts/
+:q
+hx
+br
+hx .
+run ./explorer_script.nu explorer<\n>
+hx .
+br
+clear
+ls
+rm helix-wezterm.nu
+clear
+ls
+clear
+ls
+helix-wezterm.sh explorer
+hx .
+helix-wezterm.sh explorer
+brbr
+hx .
+clear
+helix-wezterm.sh explorer
+hx .
+helix-wezterm.sh explorer
+brbr
+ls
+clear
+cd wezterm
+cd scripts
+l
+ls
+helix-wezterm.sh explorer
+hx .
+brbr
+br
+ls
+br\r
+br
+cd scripts
+cd script
+l
+ls
+hx .
+helix-wezterm.sh explorer
+ls
+ls -la
+clear
+cd script
+ls
+br
+cd wezterm
+br
+cd wezterm
+br
+hx .
+cd wezterm
+hx .
+br
+ls
+clear
+ls
+clear
+br
+cd wezterm
+hx .
+cd script
+br\r
+cd script
+hx .
+cd script
+hx .
+cd script
+hx .
+cd scripts
+hx .
+br
+br\r
+clear
+hx .
+cd scripts
+hx .
+ls
+clear
+br
+cd scripts
+clear
+hx .
+awk
+br
+hx .
+clear
+l
+clear
+l
+ls
+clear
+cd broot
+ls
+hx .
+hx-open.sh
+hx-open.sh ~/.zshrc
+hx .
+cd script
+ls
+hx .
+cd scripts
+br
+hx .
+cd scripts
+hx .
+echo $env.config
+clear
+l
+clear
+hx .
+ejbr
+clear
+br
+hx .
+cd wezterm
+cd scripts
+hx .
+cd scripts
+hx .
+br
+hx .
+cd scirpts
+cd script
+hx /Users/tuandang/.local/scripts/hx-open.sh
+br
+cd scripts
+hx .
+br
+hx /Users/tuandang/.local/scripts/hx-open.sh
+hx .
+cd scirpts
+cd script
+br
+cd broot
+ls
+clear
+hx .
+chmod +x hx-open.sh<\n>
+hx .
+chmod +x hx-open.sh<\n>
+hx-open.sh ~/.zshrc
+hx /Users/tuandang/.zshrc
+hx /Users/tuandang/.local/scripts/hx-open.sh
+br
+clear
+hx-open.sh ~/.zshrc
+hx /Users/tuandang/.zshrc
+hx /Users/tuandang/.local/scripts/hx-open.sh
+br
+cd scripts
+hx /Users/tuandang/.local/scripts/hx-open.sh
+cd scripts
+hx .
+hx /Users/tuandang/.local/scripts/hx-open.sh
+hx /Users/tuandang/.local/scripts/helix-wezterm.sh
+hx .
+cd wezterm
+br
+cd script
+hx .
+hx /Users/tuandang/.local/scripts/hx-open.sh
+brupr wezterm
+ls
+echo $env.config
+cleare
+clear
+ls
+cd script
+clear
+hx .
+hx /Users/tuandang/.local/scripts/hx-open.sh
+wezterm --version<\n>
+brew install --cask wezterm
+ls
+clear
+wezterm --debug<\n>
+cd ..
+l
+ls
+cd share/
+ls
+cd wezterm
+hx .
+clear
+br
+clear
+hx /Users/tuandang/Dev/_rust/tutorial/src/main.rs
+jclear
+clear
+brew uninstall -zap wezterm
+brew uninstall --zap wezterm
+brew cleanup
+clear
+brew install --cask wezterm
+clear
+ls
+ls -a
+clear
+cd script
+hx .
+br
+hx-open.sh ~/.zshrc
+clear
+br
+br
+clear
+brupr
+clear
+l
+clear
+l
+ls
+clear
+ls 
+hx .
+clear
+fzf
+clear
+hxff
+cd nushell
+l
+hx .
+source config.nu
+ls
+clear
+source config.nu
+hx .
+source config.nu
+config.nu
+history.txt
+clear
+hx .
+source config.nu
+hx aliases.nu
+clear
+hxrs
+hxff
+cd history.txt
+ls **/*.md | fzf<\n>
+hx .
+source config.nu
+source aliases.nu
+nufzf
+ls
+nufzf history.txt
+nufzf
+cd
+nufzf
+cd nu
+hx .
+source env.nu
+hx .
+source env.nu
+ls
+hx .
+cd wezterm
+hx .
+br
+hx /Users/tuandang/Dev/_rust/rustlings/Cargo.toml
+cd wezterm
+hx .
+clear
+hx /Users/tuandang/Dev/_rust/rustlings/exercises/01_variables/variables4.rs
+cd scripts
+hx .
+;e
+hx ,
+hx .
+clear
+br
+clear
+ls
+clear
+br
+clear
+ls
+clear
+cd
+l
+sls
+ls -la
+clear
+l
+ls
+cd ..
+ls
+cd 
+cd config
+ls
+clear
+zshrc
+clear
+l
+ls -la
+clear
+l
+clear
+ls
+clear
+ls
+ls -la
+clear
+hx ~/.zshrc
+wich nu
+which nu
+ls
+clear
+ls
+clear
+ls
+cd ..
+l
+ls
+ls -a
+cd scripts
+hx .
+ls
+rm helix-wezterm.sh
+rm hx-open.sh
+clear
+l
+ls
+cd 
+ls
+cd helix
+hx .
+cd broot
+hx .
+clear
+ls
+clear
+ls
+ls -la
+cd
+ls -la
+rm .zshrc
+rm -rf .zsh_sessions/
+rm .viminfo
+ls
+clear
+l
+sls -la
+ls -la
+rm .zhistory
+clear
+ls
+ls -la
+cd .config
+cd 
+rm -rf .oh-my-zsh/
+clear
+ls
+clear
+source ~/.zshrc<\n>
+ls
+clear
+brupr
+brew list
+brew uninstall --zap jetbrains-toolbox
+brew cleanup
+ls
+clear
+ls -la
+rmds
+y
+clear
+l
+ls
+ls -la
+br
+clear
+l
+ls
+ls -la
+cd 
+clear
+cd tutorial
+clear
+l
+brew uninstall --zap wezterm
+brew install --cask alacritty
+clear
+ls
+cd .config
+ls
+defaults write -g NSWindowShouldDragOnGesture -bool true<\n>
+clear
+ls
+cd config
+ls
+hx aerospace/aerospace.toml
+ls
+clear
+l
+ls 
+cd config
+ls
+hx .
+mkcd alacritty
+ls
+which nu
+cd alacritty
+hx .
+alacritty migrate
+cd alacritty
+ls
+hx .
+mkdir themes
+ls
+cd themes
+ls
+hx nord.toml
+hx .
+cd ..
+ls
+hx .
+cd alacritty
+hx 
+ls
+clear
+ls
+l
+cd alacritty
+hx .
+brew uninstall --zap alacritty
+cd ..
+ls
+rm -rf alacritty/
+clear
+clear
+cd 
+clear
+ks
+cd 
+cd .config
+ls
+btm
+clear
+ls
+clear
+l
+ls
+clear
+l
+ls
+cd alacritty
+cd aerospace/
+hx .
+clear
+l
+ls
+clear
+ls
+clear
+ls
+clear
+l
+cd ..
+l
+ls
+cd bat
+ls
+hx .
+clear
+ls
+clear
+ls
+cd ..
+l
+ls
+clear
+br
+x
+xta
+clear
+l
+clear
+ls 
+cd broot
+ls
+hx .
+launcher/nushell/br
+clear
+ls
+hx verbs.toml
+clear
+l
+ls 
+clear
+ls
+cd broot
+ls
+fd
+fg
+hx .
+br
+ls
+lc
+cd ..
+l
+cd ..
+l
+clear
+launcher/installed-v4
+clear
+l
+ls
+clear
+br
+clear
+l
+br
+hx .
+clear
+l
+ls
+clear
+ls
+ag
+fg
+clear
+fg
+fg list
+clear
+ls
+clear
+l
+clear
+hx .
+ls
+cd ..
+ls
+cd helix
+hx .
+clear
+ls
+cd ..
+ls
+xta
+sla
+xl
+x
+xa
+xt
+xat
+clear
+cd nu
+ls
+hx .
+hx mise.nu
+hxff
+clear
+ls
+cd 
+ls
+clear
+ls
+cd 
+ls
+clear
+ls -a
+ls -al
+ls -la
+ls -al
+clear
+l
+clear
+ls 
+clear
+ìno
+info
+cear
+c
+s
+clear
+l
+clear
+ls
+info
+cd
+info
+clear
+ls
+clear
+ls
+clear
+l
+clear
+cd helix
+clear
+cd
+ls
+cd tutorial
+clear
+ls --all --long
+table --expand
+ls
+clear
+cd nu
+hx .
+source config.nu
+hx .
+source env.nu
+l
+ls
+clear
+l
+clear
+ping
+ip
+clear
+brupr
+clear
+ls
+hx .
+ls | where name == Cargo.toml | is-not-empty
+cd tutorial
+ls | where name == Cargo.toml | is-not-empty
+brew list
+clear
+cd nu
+hx .
+clear
+cd tutorial
+clear
+l
+ls
+hx .
+hxff
+clear
+cd nu
+ls
+hx aliases.nu
+clear
+source env.nu
+source config.nu
+asff
+source aliases.nu
+asff
+hx .
+l
+ls
+ls -la
+ls -a 
+ls
+cd
+ls
+rm mechvibes.log
+ls
+ls -a
+rm .zhistory
+clear
+ls
+clear
+l
+ls 
+clear
+ls -a
+clear
+ls
+cd nu
+ls
+clear
+hx .
+clear
+brupr
+clear
+l
+ls
+clear
+ls
+clear
+ls
+echo $env.config
+echo $env.PATH
+ls 
+echo $env.PATH
+clear
+hx .
+hx .
+source env.nu
+source config.nu
+echo $env.PATH
+ls
+echo $env.PATH
+hx .
+cd nu
+ls
+hx .
+sourc env.nu
+source env.nu
+clear
+source config.nu
+clear
+hx .
+ls
+hx .
+hx keybindings.nu
+hx .
+hx 
+hx .
+source config.nu
+dir
+ls 
+dir
+hx .
+source config.nu
+source env.nu
+clear
+ls
+echo $env.PATH
+clear
+ls
+clear
+hx .
+source config.nu
+source env.nu
+clear
+l
+hx .
+cd nushell
+ls
+hx ..
+cd nushell
+hx .
+clear
+ls
+clear
+l
+clear
+hx .
+cd nus
+clear
+hx .
+cd nus
+cd
+cd nus
+clear
+hx .
+ls
+hx 
+hx .
+hx --heath nu
+hx -health nu
+hx --health nushell
+hx -health
+hx --health
+clear
+hx --health nu
+cd helix
+hx .
+cd nu
+hx .
+cd helix
+hx .
+cd nu
+hx .
+cd helix
+hx .
+clear
+cd nus
+clear
+hx .
+hx ...(rg -l term | split row "\n")<\n>
+ls
+br
+clear
+l
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+ls 
+clear
+echo $env.PATH
+ls
+clear
+l
+clear
+l
+ls
+x
+clear
+dir
+x
+dir
+ls
+clear
+l
+sl
+clear
+ls
+clear
+ls
+clear
+brew install --cask alacritty
+cd ..
+cd alacritty
+ls
+cd config
+l
+clear
+hx aliases.nu
+ls
+mkcd alacritty
+ls
+clear
+which nu
+hx alacritty/
+ls
+cd alacritty
+hx .
+clear
+l
+cd 
+ls
+clear
+l
+ls
+clear
+l
+ls
+clear
+l
+clear
+cd config
+ls
+hx .
+ls
+cd nu
+hx .
+clear
+l
+ls
+clear
+info
+clear
+ls
+bat ~/.zshrc
+cat config.nu
+ls
+clear
+ls
+clear
+hx .
+br
+ls
+hx .
+cd ..
+l
+cd broot
+ls
+hx .
+cd alacritty
+l
+hx .
+br
+ls
+hx .
+echo "Rust is `u{1002D2}"<\n>
+echo -e "file_type_rust looks like \U001002D2"<\n>
+clear
+hx alacritty.toml
+cd broots
+cd broot
+ls
+hx .
+br
+hx .
+br
+hx .
+cd alacritty
+ls
+clear
+hx alacritty.toml
+br
+cd broot
+hx .
+clear
+ls
+br
+clear
+cd alacritty
+hx .
+br
+clear
+ls
+br
+hx .
+clear
+l
+br
+cd broot
+hx .
+ls
+ls -la
+clear
+cd nushell
+hx .
+broot --install
+hx .
+cd broot
+br
+qls
+ls
+br
+ls
+br
+brew uninstall broot
+brew install broot
+clear
+br
+ls
+hx .
+ls
+br
+ls
+br
+clear
+l
+clear
+br -H
+clear
+ls
+ls -a
+cd nushell
+hx .
+broot --print-shell-function nushell
+clear
+broot --set-install-state installed
+ls
+br
+ls
+clear
+l
+ls -la
+clear
+ls
+hx .
+cd nushell
+hx .
+ls
+clear
+ls
+cd broot
+hx .
+br
+broot --install
+ls
+clear
+cd nushell
+br
+ls
+br
+clear
+hx .
+cd nushell
+hx .
+souce config.nu
+source env.nu
+source config.nu
+clear
+ls
+clear
+br
+hx .
+cd broot
+ls
+hx .
+clear
+cd nushell
+clear
+hx .
+source config.nu
+br
+clear
+br
+ls
+clear
+br -H
+br
+ls
+hx .
+echo -e "file_type_rust looks like \U001002D2"<\n>
+echo $env.PATH
+clear
+l
+ls
+clear
+ls
+clear
+hx .
+open .
+open
+clear
+br
+cd broot
+br
+ls
+clear
+ls
+cd broot
+hx .
+br
+clear
+l
+ls
+clear
+br
+open ~/.ssh/
+br
+clear
+ls
+clear
+br
+ls
+brew uninstall --zap alacritty
+brew install --cask alacritty
+clear
+ls
+clear
+br
+clear
+ls
+clear
+ls
+clear
+br
+clear
+br
+clear
+ls
+clear
+l
+clear
+l
+clear
+l
+ls
+clear
+dir
+hx .
+cd Applications/
+ls
+pwd
+cd nushell
+hx .
+br
+clear
+echo $env.PATH
+brupr
+cd broot
+hx .
+br
+broot --install
+clear
+br
+clear
+br
+ls
+hx .
+br
+cd nu
+hx .
+clear
+br
+broot -u<\n>
+brew reinstall broot
+br
+brew uninstall --zap broot
+br
+clear
+l
+cd broot
+hx .
+ls
+rm -rf launcher/
+brew install broot
+broot --install
+br
+open -a Alacritty .gitconfig
+open -a TextEdit .gitconfig
+br
+ls
+dỉ
+dir
+rmds
+clear
+l
+ls
+clear
+dỉ
+dir
+clear
+br
+clear
+ls
+dir
+clear
+brupr
+clear
+l
+ls
+brew doctor
+ls
+ls -la
+clear
+br
+ls
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-eLf6u1zbnscVYZaaFJ7Ydg7Cp.tmp
+///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+cd broot
+cd
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+l
+ls
+ôpen ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-eLf6u1zbnscVYZaaFJ7Ydg7Cp.tmp
+sudo open ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-eLf6u1zbnscVYZaaFJ7Ydg7Cp.tmp
+sudo open TextEdit ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-eLf6u1zbnscVYZaaFJ7Ydg7Cp.tmp
+cd
+ls
+///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-eLf6u1zbnscVYZaaFJ7Ydg7Cp.tmp
+sudo rm -rf ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-eLf6u1zbnscVYZaaFJ7Ydg7Cp.tmp
+ls
+clear
+br
+ls
+sudo rm -rf ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/broot-PLixxyVfARlqtmIOUFwsU0m1r.tmp
+br
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+sudo rm -rf  broot-7gMFe3OoZz7TW3S4G6A83tM1f.tmp                                                              │ file   │   0 B │ 16 minutes ago │<\n>│  18 │ broot-8h2GV2mUDSnl49P97ysA2nW4H.tmp                                                              │ file   │   0 B │ 27 minutes ago │<\n>│  19 │ broot-BL7kRfHuPR9mquSjCpNbi7KVv.tmp                                                              │ file   │   0 B │ 23 minutes ago │<\n>│  20 │ broot-EGh7IL8YvJoxR2e3DXbFcXVoF.tmp                                                              │ file   │   0 B │ 15 minutes ago │<\n>│  21 │ broot-FC16Ne62SfO2mjSjjyq1OIC5R.tmp                                                              │ file   │   0 B │ 8 minutes ago  │<\n>│  22 │ broot-HMyfwEtM7d5tWRxO23KqXmQ12.tmp                                                              │ file   │   0 B │ 27 minutes ago │<\n>│  23 │ broot-JbCWIGk0H8HCI7droQwB5Sy8v.tmp                                                              │ file   │   0 B │ 13 seconds ago │<\n>│  24 │ broot-UOHT1n5l7S8KA8wTuStBsJwSt.tmp                                                              │ file   │   0 B │ 10 minutes ago │<\n>│  25 │ broot-X9LVscixMRHxPWonF925ttpCo.tmp                                                              │ file   │   0 B │ 15 minutes ago │<\n>│  26 │ broot-b678gRwiwu6imAhS2w5ybOAjL.tmp                                                              │ file   │   0 B │ 20 minutes ago │<\n>│  27 │ broot-dbdfXBRWZpHUESIU5UN4fN8tC.tmp                                                              │ file   │   0 B │ 23 minutes ago │<\n>│  28 │ broot-euELR8ICTok7h0hVOgx3JPJ0H.tmp                                                              │ file   │   0 B │ 28 minutes ago │<\n>│  29 │ broot-gK0FTJp581I8lt6cWoKw6pRBH.tmp                                                              │ file   │   0 B │ 15 minutes ago │<\n>│  30 │ broot-iVe9MUUe0Hov9eIw2IqYcDPnG.tmp                                                              │ file   │   0 B │ 28 minutes ago │<\n>│  31 │ broot-ih2GqPxSRZgZehb29bQEUwpPe.tmp                                                              │ file   │   0 B │ 17 minutes ago │<\n>│  32 │ broot-jOXi8Lbh1xoYfp8NpeDycSeS6.tmp                                                              │ file   │   0 B │ 28 minutes ago │<\n>│  33 │ broot-jPH6HPB07xcQL4VI6gcgaR6OT.tmp                                                              │ file   │   0 B │ 11 minutes ago │<\n>│  34 │ broot-siuRKq08OTu1uvnY7RDVxYnMl.tmp                                                              │ file   │   0 B │ 12 minutes ago │<\n>│  35 │ broot-uOdVsUv50PeDaLylL7hpanO1l.tmp                                                              │ file   │   0 B │ 18 minutes ago │<\n>│  36 │ broot-uySO9GV7oWv1u6dyaKmUH49Nz.tmp                                                              │ file   │   0 B │ 26 minutes ago │<\n>│  37 │ broot-zHPKrv84M4a58Mnq4EqgCM4CV.tmp                                                              │ file   │   0 B │ 12 minutes ago │<\n>│  38 │ broot-zQevOp52imvceAyoFWyXTYNKm.tmp
+sudo rm -rf broot-7gMFe3OoZz7TW3S4G6A83tM1f.tmp
+sudo rm -rf broot-8h2GV2mUDSnl49P97ysA2nW4H.tmp
+sydi rn broot-7gMFe3OoZz7TW3S4G6A83tM1f.tmp
+sudo rm broot-7gMFe3OoZz7TW3S4G6A83tM1f.tmp
+sudo rm -rf broot-BL7kRfHuPR9mquSjCpNbi7KVv.tmp
+sudo rm -rf broot-FC16Ne62SfO2mjSjjyq1OIC5R.tmp
+sudo rm -rf broot-HMyfwEtM7d5tWRxO23KqXmQ12.tmp
+sudo rm -rf broot-b678gRwiwu6imAhS2w5ybOAjL.tmp
+br
+ls
+clear
+cd
+br
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+br
+ls
+br
+broot
+ls
+clear
+ls
+dir
+rm .zhistory
+ls
+dir
+rm .zsh_history
+br
+clear
+ls
+cd broot
+hx .
+broot
+ls
+br
+rm -rf launcher/
+ls
+clear
+ls
+ls -la
+broot -H
+clear
+ls
+broot -H
+br
+ls
+clear
+l
+ls
+hx .
+clear
+l
+ls
+clear
+broot
+broot -H 
+clear
+l
+ls
+clear
+ls
+clear
+clear
+l
+ls
+clear
+cd alacritty
+hx .
+br
+ls
+cd nushell
+hx .
+clear
+br
+broot --install
+clear
+hx .
+source config.nu
+br
+broot 
+ls
+br
+ls
+broot --install
+ls
+cd broot
+hx .
+ls
+rm -rf launcher/
+clear
+broot
+clear
+br
+cd nushell
+ls
+clear
+l
+clear
+cd broot
+ls
+hx .
+br
+:q
+br
+ls
+cd broot
+broot
+br
+hx .
+cd nushell
+hx .
+ls
+br
+ls
+clear
+br
+sudo br
+sudo broot
+br
+ls
+brew uninstall --zap broot
+brew cleanup
+brew autoremove
+clear
+l
+ls
+brew install yazi
+clear
+cd nushell
+hx .
+cd broot
+hx .
+ls
+yazi
+clear
+l
+yazi
+ls
+clear
+br
+clear
+ls
+ls -la
+dir
+rm mechvibes.log
+clear
+rmds
+y
+clear
+l
+sl
+clear
+l
+clear
+ls
+clear
+ls
+dir
+clear
+dir
+brupr
+ls
+clear
+ls -la
+clear
+ls
+cd config
+ls
+clear
+cd nushell
+hx .
+clear
+y
+clear
+source config.nu
+conear
+y
+clear
+q
+ls
+y
+ls
+clear
+zshrc
+y
+ls
+clear
+y
+yazi
+clear
+yai
+yazi
+clear
+yazi
+cd nushell
+ls
+hx .
+source config.nu
+hx .
+ls
+hx .
+cd nushell
+hx .
+ls
+hx .
+y
+ls
+hx .
+cd nushell
+hx .
+y
+cd nushell
+ls
+y
+brupr
+brew uninstall --zap yazi
+y
+brew install yazi
+y
+ls
+clear
+y
+clear
+xdg-open
+start ...args -a TextEdit
+start ...args -a Alacritty
+start "https://duckduckgo.com"
+y
+cd nushell
+hx .
+s
+dir
+start aliases.nu
+start completions.nu
+start history.txt
+y
+yazi
+ls
+clear
+open .
+nu-open .
+^nu-open
+hx .
+^open .
+hx .
+fzf
+hx .
+fzf
+hx .
+source config.nu
+fzf
+zf
+fzf
+hx .
+cd nushell
+hx .
+y
+clear
+yazi
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd nushell
+echo $env.EDITOR
+clear
+hx .
+y
+clear
+cd nushell
+hx .
+start aliases.nu
+hx .
+defs.nu
+hx .
+	yazi ...$args --cwd-file $tmp<\n>
+yazi ...$args --cwd-file $tmp<\n>
+y
+clear
+l
+lx
+hx ,
+ls
+bat ~/.gitconfig
+clear
+ls
+clear
+ls
+source config.nu
+source env.nu
+source aliases.nu
+source completions.nu
+source defs.nu
+source env.nu
+source envvars.nu
+source history.txt
+source hooks.nu
+sourrce keybindings.nu
+source keybindings.nu
+source menus.nu
+source mise.nu
+source modules.nu
+source paths.nu
+ls
+clear
+ls
+y
+ls
+cd 
+ls
+open https://www.google.com<\n>
+'https://www.google.com' | open<\n>
+'https://www.google.com' | open
+clear
+brew upgrade nushell<\n>
+clear
+brew uninstall nushell
+brew install nushell
+ls
+y
+clear
+ls
+ls -la
+q
+clear
+ls
+cd yazi
+cd nushell
+ls
+hx defs.nu
+ls
+ls 
+hx .
+y
+clear
+hx .
+clear
+y
+clear
+l
+clear
+ls
+clear
+l
+clear
+cd nushell
+hx .
+y
+yazi
+hx .
+y
+completions.nu
+hx config.nu
+mktemp -t "yazi-cwd.XXXXXX"<\n>
+mktemp --suffix ".yazi-cwd"<\n>
+echo $env.PWD<\n>
+ls
+hx .
+source config.nu
+ya
+rm -f $tmp<\n>
+hx .
+ya
+clear
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+y
+ls
+clear
+y
+yazi
+ya
+ls
+y
+ya
+cd nu
+hx .
+ya
+cd nu
+hx .
+ya
+hx .
+cd nushell
+hx .
+which open
+which nu-open
+which ^open
+clear
+hx .
+cd nu
+echo $env.PATH
+open .
+ls
+ya
+clear
+ls
+clear
+l
+clear
+ls
+hx .
+ls
+hx .
+which ^open
+nuopen .
+hx .
+nu-open 
+nu-open aliases.nu
+clear
+l
+ls
+y
+ls
+clear
+ls
+ls -la
+rm .zsh_history
+rm .zsh_sessions/
+rm -rf .zsh_sessions/
+clear
+ls
+ls -a
+rm .lesshst
+clear
+cargo list
+clear
+rustup update stable
+clear
+ls
+cd nushell
+clear
+ls
+clear
+y
+clear
+gx .
+hx .
+y
+ls
+hx .
+ls
+cd nushell
+hx .
+source config.nu
+clear
+ya
+ls
+ya
+sl
+ls
+rmds 
+y
+clear
+ls
+cd 
+ls
+ls -a
+ls
+clear
+ya
+source config.nu
+source envvars.nu
+ya
+ya --debug
+yazi --debug
+clear
+hx .
+ls
+clear
+ls -la
+source envvars.nu
+cd nushell
+source envvars.nu
+hx .
+clear
+cd ..
+l
+ls
+cd broot
+hx .
+ls
+cd ..
+ls
+mkcd yazi
+clear
+l
+ls
+ya
+ya pack -a dangooddd/kanagawa<\n>
+hx .
+cd nushell
+hx .
+ya pack -a dangooddd/kanagawa<\n>
+cd yazi
+ls
+hx theme.toml
+ya
+y
+cd yazi
+y
+ya pack -a yazi-rs/plugins:full-border<\n>
+ya pack -a yazi-rs/plugins:smart-enter<\n>
+ls
+clear
+y
+ya pack -a yazi-rs/plugins:hide-preview
+cd ..
+ls
+ya pack -a yazi-rs/plugins:max-preview
+jls
+ls
+clear
+ls
+hx .
+y
+clear
+y
+ls
+y
+clear
+ls
+clear
+l
+cd
+ls
+clear
+y
+cd yazi
+y
+clear
+y
+clear
+l
+sls
+ls
+y
+cd yazi
+hx .
+y
+clear
+cd
+clear
+hx .
+cd nushell
+hx .
+y
+cd nushell
+hx .
+ya
+y
+cd nushell
+hx .
+y
+cd nushell
+hx .
+y
+cd nushell
+y
+source envvars.nu
+cd nushell
+source config.nu
+y
+clear
+l
+ls
+clear
+ls
+hx .
+y
+cd nushell
+hx .
+y
+cd nushell
+hx .
+clear
+y
+cd
+clear
+ls
+y
+hx .
+ls
+cd nu
+y
+ls
+y
+ls
+y
+ls
+ls -a
+clear
+hx 
+hx .
+cd yazi
+hx .
+ls
+y
+ls
+ls -la
+clear
+y
+ls
+clear
+ls
+dir
+hx .
+y
+clear
+ls
+cd
+clear
+l
+ls
+clear
+ls -la
+cd tutorial
+clear
+ls
+ls -la
+cd nushell
+hx .
+clear
+source env.nu
+clear
+echo $env.PATH
+hx .
+ls
+clear
+l
+sl
+lcear
+source env.nu
+clear
+echo $env.PATH
+clear
+ls
+brurp
+clear
+ls
+clear
+y
+cd yazi
+ls
+hx .
+ls
+hx theme.toml
+ls
+y
+clear
+cd
+y
+clear
+l
+clear
+l
+brew install tmux
+clear
+brew cleanup
+cd
+cd config
+ls
+mkdir -p "~/.config/tmux"
+mkcd tmux
+ls
+cd
+ls
+ls -a
+clear
+cd tmux
+clear
+hx tmux.conf
+ls
+hx tmux.local.conf
+hx .
+ls
+cd 
+ls
+ls -a
+clear
+cd tmux
+hx .
+tmux
+ls
+hx .
+ls
+clear
+ls
+clear
+cd 
+ls
+ls -a
+dir
+clear
+ls
+clear
+cd tmux
+hx .
+cd alacritty
+hx .
+ls
+hx .
+cd tmux
+hx .
+tmux
+ls
+hx .
+source tmux.conf
+source-file tmux.conf
+hx .
+ls
+rm tmux.local.conf
+ls
+source tmux.conf
+hx .
+source tmux.conf
+source-file tmux.conf
+clear
+source-file tmux.conf
+hx .
+source-file ~/.config/tmux/tmux.conf
+hx tmux.conf
+ls
+hx .
+tmux
+hx .
+tmux
+hx .
+tmux
+hx .
+ls
+clear
+hx .
+cd tmux
+hx .
+clear
+source-file ~/.config/tmux/tmux.conf
+hx .
+cd tmux
+hx .
+ls
+hx .
+cd alacritty
+hx .
+tmux
+hx .
+cd tmux
+hx .
+cd tmux
+hx .
+tmux info | grep -e RGB -e Tc<\n>
+hx .
+tmux info | grep -e RGB -e Tc<\n>
+tmux
+set -g default-terminal "tmux-256color"<\n>set -ag terminal-overrides ",xterm-256color:RGB"
+tmux info | grep -e RGB -e Tc
+hx .
+ls
+tmux info | grep -e RGB -e Tc
+cd alacritty
+hx .
+ls
+tmux info | grep -e RGB -e Tc
+clear
+cd tmux
+hx .
+tmux info | grep -e RGB -e Tc
+hx .
+tmux
+cd tmux
+hx .
+cd alacritty
+hx .
+tmux info | grep -e RGB -e Tc
+hx .
+cd tmux
+hx .
+ls
+hx .
+cd tmux 
+hx .
+tmux info | grep -e RGB -e Tc
+hx .
+clear
+hx .
+tmux info | grep -e RGB -e Tc
+tmux
+tmux 
+tmux
+cd tmux
+hx .
+tmux info | grep -e RGB -e Tc
+clear
+ls
+dir
+clear
+ls
+clear
+cd tmux
+hx .
+tmux
+hx .
+cd tmux
+ls
+tmux
+ls
+clear
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm<\n>
+clear
+l
+ls
+hx .
+tmux
+clear
+ls
+clear
+hx .
+ls
+hx plugins/
+ls
+y
+clear
+hx .
+ls
+cd ..
+ls
+tmux.conf
+ls
+cd nushell
+hx envvars.nu
+hxff
+ls
+clear
+ls
+clear
+ls
+hx .
+ls
+clear
+l
+clear
+hx .
+ls
+clear
+tmux
+clear
+cd ..
+hx tmux.conf
+tmux
+hx tmux.conf
+tmux
+ls
+tmux
+hx .
+cd
+cd 
+ls
+cd tmux
+y
+ls
+cd 
+ls
+cd .tpm
+ls
+ls -a
+cd .tmux
+hx .
+ls
+cd plugins/
+ls
+cd tpm
+ls -a
+ls
+clear
+ls
+clear
+lcd
+ls
+cd tmux
+ls
+hx .
+cd nushell
+hx envvars.nu
+source envvars.nu
+clear
+cd l
+ls
+tmux info | grep -e RGB -e Tc
+clear
+cd alacritty
+hx .
+tmux info | grep -e RGB -e Tc
+ls
+hx .
+ls
+clear
+l
+slclear
+cd ..
+cd nushell
+clear
+ls
+clear
+ls
+clear
+ls
+tmux
+ls
+cd nushell
+hx .
+cd tutorial
+clear
+tmux
+ls
+hx .
+cd tmux 
+hx .
+hx tmux.conf
+ls
+l
+lcl
+tmux
+l
+cd tmux
+ls
+clear
+hx tmux.conf
+hx .
+cd tmux
+hx .
+tmux
+ls
+clear
+hx .
+cd tmux
+hx .
+tmux .
+hx .
+cd tmux
+hx .
+tmux
+t,ix
+cd tmux
+hx tmux
+hx tmux.conf
+ls
+clear
+ls
+clear
+ls
+clear
+l
+clear
+ls
+clear
+ls
+clear
+hx .
+ls
+hx tmux.conf
+ls
+clear
+l
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+l
+clear
+ls
+clear
+hx tmux.conf
+tmux
+ls
+clear
+tmux kill-all sessions
+tmux kill all-sessions
+tmux kill-session
+tmux list
+tmux list-sessions
+cd nushell
+hx .
+ls
+hx aliases.nu
+source envvars.nu
+source aliases.nu
+source config.nu
+clear
+tl
+tk
+tk 16
+tk 23
+tk 25
+tk 33
+ls
+tl
+clear
+tmux
+ls
+clear
+l
+clear
+cd tmux
+ls
+clear
+tl
+tk 0
+clear
+tl
+tn
+cd tmux
+tn Dev
+hx .
+ta Dev
+tn
+ta
+t
+hx .
+cd tmux
+tmux
+cd tmux
+ls
+dirr
+dir
+clear
+hx .
+clear
+hx tmux.conf
+tmux
+ls
+clear
+hx .
+hx tmux
+hx tmux.conf
+hx .
+hx tmux.conf
+clear
+ls
+dir
+hx .
+hx tmux.conf
+<\n>
+clear
+ls
+clear
+l
+ls
+sl
+sls
+ls
+sls
+ls
+sls
+ls
+ss
+lssls
+ls
+clear
+hx .
+;s
+ls
+clear
+hx .
+clear
+ls
+clear
+ls
+brupr
+clear
+brew cleanup
+clear
+tl
+tk 0
+tk 1
+ls
+clear
+tn Dev
+clear
+tl
+ls
+clear
+l
+clear
+ls
+clear
+ls
+tl
+tk DEv
+tk Dev
+tk scratch
+ls
+tl
+clear
+ls
+clear
+l
+ls
+clear
+l
+ls
+clear
+ls
+clear
+l
+clear
+l
+clear
+ls
+clear
+l
+clear
+cd helix
+clear
+l
+clear
+ls
+clear
+cd tmux
+hx .
+clear
+ls
+x
+xta
+hx clear
+tn Dev
+tl
+hx .
+ls
+lsl
+sls
+ls
+hx .
+ls
+clear
+ls
+clear
+ls
+clear
+hx .
+hx tmux.conf
+clear
+tl
+tk crratch
+tk scratch
+ls
+clear
+hx tmux.conf
+ls
+y
+ls
+hx .
+cd ..
+l
+hx tmux.conf
+ta Dev
+tl
+tk Dev
+ls
+cd tmux
+y
+clear
+y
+clear
+l
+cd .
+cdl
+cd
+clea
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+l
+clear
+ls
+cd tutorial
+clear
+ls
+x
+dir
+clear
+x
+xta
+xa
+clear
+xa
+cd helix
+hx .
+clear;
+clear
+lsl
+clear
+l
+clear
+ls
+clear
+:q
+exit
+hx .
+clear
+brupr
+ls
+clear
+l
+clear
+cd tutorial
+clear
+lx
+ls
+clear
+hx .
+clear
+hx .
+clear
+brupr
+ls
+clear
+l
+s
+ls
+clear
+l
+sl
+clear
+l
+ls
+clear
+hx .
+clear
+ls
+clear
+ls
+ls -a
+br
+clear
+ls
+clear
+brew cleanup
+clear
+ls
+clear
+btm
+asff
+clear
+l
+clear
+ls
+clear
+clear
+ls
+clear
+burpp
+brupr
+cargo install --locked bacon<\n>
+clear
+bacon
+ls
+clear
+hx .
+bacon
+clear
+cd nushell
+hx defs.nu
+source config.nu
+f
+fz
+fdir
+source defs.nu
+fdir
+tn Dev
+clear
+fdir
+f
+source defs.nu
+cd nushell
+hx .
+f nushell
+f rust
+f
+f 
+f .
+clear
+fz _rust
+ls
+clear
+hx .
+ls
+clear
+tl
+clear
+ls
+clear
+ls
+f
+fz .
+f .
+clear
+bacon
+clear
+cargo run
+clear
+cargo run
+cleear
+clear
+ls
+clear
+ls
+ls -a
+clear
+brew install tmux
+brew install broot
+broot --install
+br
+clear
+source config.nu
+cd nushell
+source config.nu
+clear
+br
+hx .
+cd broot
+hx .
+ls
+br
+brew uninstall --zap broot
+clear
+cd
+fzf
+clear
+hxff
+:q
+ls
+brew cleanup
+clear
+brupr
+hx .
+cd nushell
+hx .
+brew install broot
+clear
+broot --install
+broot
+br
+cd broot
+hx br.nu
+clear
+hx .
+source config.nu
+cd broot
+ls
+cd launcher/
+ls
+rm -rf nushell/
+clear
+cd nushell
+source config.nu
+hx br.nu
+broot
+br
+source config.nu
+hx .
+source config.nu
+mv br.nu broot-help.nu
+ls
+hx config.nu
+source config.nu
+clear
+br
+ls
+clear
+ls
+clear
+hx .
+ls
+hx .
+clear
+cd nushell
+hx .
+source config.nu
+br
+hx .
+cd nushell
+hx .
+clear
+hx .
+br
+clear
+ls
+clear
+br
+cd nushell
+source config.nu
+ls
+hx .
+source envvars.nu
+source env.nu
+br
+hx .
+cd nushell
+br
+hx .
+source env.nu
+source config.nu
+br
+ls
+cd _rst
+cd _rust
+bacon ../broot<\n>
+ls
+cd tutorial
+bacon ../broot<\n>
+bacon --path ../broot<\n>
+cd nushell
+l
+ls
+hx broot
+hx .
+source env.nu
+hx .
+source env.nu
+br
+clear
+br
+hx .
+cd broot
+ls
+cd nushell
+hx .
+ls
+rm broot-help.nu
+ls
+hx .
+ls
+clear
+hx .
+brew uninstall --zap broot
+clear
+ls
+brew cleanup
+brew autoremove
+ls
+br
+clear
+br
+clear
+cd nushell
+hx .
+open .
+nu-open .
+nu-open nushell
+clear
+hx .
+cat /etc/shells
+hx .
+clear
+source config.nu
+nu-open nushell
+clear
+hx .
+echo $env.SHELL
+hx .
+clear
+source env.nu
+echo $env.SHELL
+clear
+ls
+:w
+clear
+ls
+clear
+ls
+clear
+hx .
+tl
+ls
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+y
+clear
+ls
+cd 
+clear
+ls
+clear
+cd 
+clear
+y
+rmds
+clear
+y
+clear
+hx .
+clear
+hx .
+ls
+clear
+l
+ls
+sk
+fzf
+clear
+brew cleanup
+clear
+ls
+clear
+echo https://example.com | open --external<\n>
+start https://example.com<\n>
+hx .
+ls
+cd nushell
+hx .
+source env.nu
+echo $env.SHELL
+ls
+clear
+ls
+clear
+l
+clear
+l
+ls
+clear
+hx .
+ta Dev
+clear
+y
+open /var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/yazi-cwd.XXNBhF<\n>
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+open .
+open $(echo file:///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/yazi-cwd.XXNBhF | sed 's|file://||')<\n>
+clear
+ls
+clear
+y
+ls
+:q
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+y
+chmod -R 755 /var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/<\n>
+clear
+cd 
+ls
+chmod -R 755 /var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/<\n>
+sudo chmod -R 755 /var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/<\n>
+y
+ls
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+y
+clear
+l
+clear
+y
+cd 
+ls
+ls -la
+rmds
+clear
+cd nushell
+clear
+hx .
+echo $EDITOR<\n>echo $BROWSER
+echo $env.EDITOR
+hx .
+source env.nu
+clear
+echo $env.EDITOR
+clear
+echo $env.BROWSER
+hx .
+source config.nu
+y
+ls
+cd nushell
+ls
+hx .
+sỏuce config.nu
+source config.nu
+y
+ls
+cd nushell
+hx ,
+hx .
+ls
+clear
+ls
+clear
+hx .
+ls
+c;ear
+clear
+l
+ll
+clear
+ls
+clear
+cd nushell
+y
+hx .
+y
+clear
+cd nushell
+hx .
+ls
+y
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+y
+clear
+cd
+clear
+l
+ls
+clear
+ls -la
+clear
+cd nushell
+hx .
+clear
+hx .
+y
+cd nushell
+hx .
+y
+hx .
+cd nushell
+hx .
+source config.nu
+y
+hx .
+y
+cd nushell
+hx .
+y
+cd nushell
+source defs.nu
+source config.nu
+y
+hx .
+sỏuce config.nu
+source config.nu
+y
+clear
+l
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+y
+clear
+cd
+clear
+brupr
+hx .
+cd nushell
+hx .
+ls
+brew reinstall nushell
+clear
+y
+ls
+open $(echo file:///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/yazi-cwd.XXNBhF | sed 's|file://||')<\n>
+cd ///var/folders/zx/yn_x1dp57jl3068vs1dxfzn80000gn/T/
+ls
+open yazi-501/
+y
+clear
+cd 
+ls
+cd nushell
+hx .
+ls
+clear
+l
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+y
+clear
+ls
+y
+ls
+ls -a
+rm .lesshst
+ls
+clear
+tl
+souclear
+clear
+ls
+clear
+ls
+hx paths.nu
+source env.nu
+echo $env.PATH
+cd nushell
+cd ~/.config
+cd nushell
+hx .
+clear
+ls
+open .
+nu
+l
+ls
+cd nushell
+echo $env.PATH
+cd ~/.config
+ls
+cd nushell
+clear
+ls
+source env.nu
+source config.nu
+hx .
+vi config.nu
+ls
+vi modules.nu
+sourc aliases.nu
+source aliases.nu
+source completions.nu
+source config.nu
+source def.nu
+source modules.nu
+source hooks.nu
+ls
+source modules.nu
+source paths.nu
+source envvars.nu
+source env
+source env.nuy
+source env.nu
+vi env.nu
+vi paths.nu
+ls
+cd nushell
+hx .
+source env.nu
+ls
+clear
+ls
+clear
+l
+clear
+echo $env.PATH
+cd nushell
+hx .
+y
+cd nushell
+hx .
+ls
+clear
+ls
+tl
+clear
+source env.nu
+source config.nu
+clear
+ls
+clear
+ls
+hx .
+source config.nu
+nuopen .
+nuopen 
+ls
+nuopen plugins/
+tl
+clear
+source config.nu
+clear
+source env.nu
+source aliases.nu
+clear
+l
+ls
+clear
+nuopen
+nuopen .
+ls
+clear
+hx .
+y
+clear
+y
+ls
+hx .
+ls
+hx .
+ls
+cd nushell
+hx .
+y
+clear
+ls
+clear
+hx .
+ls
+clear
+ls
+hx .
+ls
+cd nushell
+hx .
+clear
+l
+ls
+clear
+nuopen .
+source aliases.nu
+hx .
+nuopen .
+open .
+nuopen plugins/
+cd nushell
+clear
+nuopen plugins/
+ls
+nuopen
+nuopen .
+hx .
+source config.nu
+source aliases.nu
+source env.nu
+nu-open .
+y
+clear
+ls
+y
+clear
+open .
+nuopen nushell
+nu-open ~/Library/
+clear
+ls
+clear
+ls
+clear
+ls -la
+clear
+ls
+clear
+brew install broot
+clear
+broot --install
+cd broot
+hx .
+clear
+br
+clear
+l
+clear
+ls
+clear
+l
+ls
+clear
+tl
+clear
+source env.nu
+clear
+source config.nu
+clear
+br
+clear
+ls
+clear
+ls
+clear
+l
+ls
+clear
+bacon --path ../broot<\n>
+bacon --path ~/Dev/_rust/
+bacon --path ~/Dev/_rust/broot
+bacon --job check-all<\n>
+bacon
+clear
+bacon --job check-all<\n>
+clear
+bacon clippy<\n>
+clear
+ls
+clear
+ls
+clear
+br
+hx aliases.nu
+y
+clear
+l
+sls
+clear
+l
+clear
+ls 
+clear
+ls
+clear
+ls
+clear
+l
+ls
+l
+ls
+clear
+hx .
+ls
+br
+source config.nu
+br
+clear
+hx .
+ls
+cd broot
+ls
+hx select.toml
+ls
+hx selectdir.toml
+clear
+source def.nu
+source defs.nu
+cd nushell
+source defs.nu
+clear
+hx defs.nu
+source config.nu
+source defs.nu
+source keybindings.nu
+source env.nu
+clear
+d
+clear
+cd
+clear
+bro
+ls
+cd nushell
+hx .
+source keybindings.nu
+source config.nu
+ls
+clear
+hx .
+source config.nu
+hx .
+cd nushell
+hx .
+cd nushell
+hx .
+change_dir_with_broot
+hx .
+cd nushell
+hx keybindings.nu
+cd nushell
+hx .
+sourc env.nu
+ls
+cd nushell
+hx .
+tl
+hx .
+ls
+hx .
+clear
+ls
+clear
+d
+ls
+br
+d
+source defs.nu
+hx .
+clear
+br
+d
+tree
+br --only-folders --conf ~/.config/broot/selectdir.toml
+hx .
+source defs.nu
+clear
+d
+source defs.nu
+d
+hx .
+source defs.nu
+source defs.nu
+clear
+d
+which br
+bro
+hx .
+d
+br
+ls
+d
+clear
+cd nushell
+hx .
+bro
+ls
+hx .
+source defs.nu
+d
+ls
+hx .
+br
+d
+cd nushell
+hx .
+source defs.nu
+d
+clear
+hx .
+d
+hx .
+cd nushell
+hx .
+source defs.nu
+d
+cd
+d
+cd nushell
+cd ..
+l
+ls
+cd broot
+ls
+hx .
+cd nushell
+hx .
+bro
+hx defs.nu
+d
+cd nushell
+hx .
+d
+cd nushell
+d
+hx .
+cd nushell
+hx .
+d
+bro
+bra
+brat
+clear
+ls
+clear
+l
+clear
+l
+ls
+clear
+tree
+clear
+broot
+cd broot
+hx .
+cd nushell
+hx defs.nu
+source defs.nu
+source config.nu
+br
+d
+hx .
+source config.nu
+br
+source 
+br
+clear
+ls
+br
+hx .
+cd nushell
+hx .
+source config.nu
+source defs.nu
+source modules.nu
+br
+cd broot
+hx .
+br
+clear
+ls
+clear
+br
+clear
+ls
+clear
+l
+clear
+y
+clear
+ls
+br
+clear
+ls
+clear
+hx .
+clear
+hx .
+cd nushell
+clear
+hx .
+br
+clear
+d
+cd 
+clear
+ls
+clear
+tree
+clear
+cd broot
+ls
+clear
+ls
+cd nushell
+ls
+mkcd resource
+cd ..
+hx .
+source config.nu
+source modules.nu
+clear
+rust commands
+hx .
+rust libraries 
+rust links 
+clear
+l
+clear
+ls
+clear
+hx .
+tl
+clear
+clear
+source defs.nu
+dmy
+ymd
+clear
+brupr
+hx .
+source defs.nu
+source defs.nu
+my apps 
+clear
+hx defs.nu
+source defs.nu
+my apps 
+hx defs.nu
+source defs.nu
+source defs.nu
+docs rust
+rust links
+hx .
+clear
+source defs.nu
+source config.nu
+rust links 
+cleaclear
+docs rust
+hx defs.nu
+source config.nu
+source defs.nu
+rust apps
+rust app
+source defs.nu
+hx .
+source defs.nu
+clear
+rúclear
+clear
+sỏuce config.nu
+source defs.nu
+clear
+rust apps 
+hx .
+source config.nu
+rust docs 
+rust docs
+clear
+hx .
+source config.nu
+clear
+hx .
+source config.nu
+clear
+souce config.nu
+source config.nu
+rust fix
+hx .
+source ./resource/rust.nu
+rust fix 
+cd tutorial
+rust fix 
+cd nushell
+source ./resource/rust.nu
+rust fix 
+cd tutorail
+clear
+cd tutorial
+clear
+rust fix 
+clear
+clear
+rust commands 
+ls
+clear
+hx .
+tree
+clear
+xta
+clear
+ls
+clear
+cd ..
+bacon --prefs
+ln -s `~/Library/Application Support/org.dystroy.bacon/` ~/.config/bacon 
+ls
+cd bacon
+ls
+rm ~/.config/nushell<\n>
+cd ..
+rm ~/.config/nushell<\n>
+ls
+rm ~/.config/bacon<\n>
+ls
+cd nushell
+clear
+ls
+cd 
+clear
+cd .config
+mv `~/Library/Application Support/org.dystroy.bacon/` ~/.config/bacon
+ls
+ln -s ~/.config/bacon ~/Library/Application\ Support/org.dystroy.bacon<\n>
+ln -s ~/.config/bacon ~/Library/Application\ Support/bacon
+ln -s ~/.config/bacon ~/Library/Application\ Support/
+ln -s ~/.config/bacon `~/Library/Application Support/org.dystroy.bacon/`
+ls
+rm -rf bacon/
+ls
+bacon --prefs
+ln -s `~/Library/Application Support/org.dystroy.bacon/` ~/.config/bacon 
+ls
+clear
+cd bacon
+hx .
+ls
+clear
+l
+cd tutorial
+bacon
+ls
+ls -a
+clear
+cd bacon
+ls
+cd bacon
+cd nushell
+clear
+cd ..
+cd bacon
+ls
+hx .
+cd nushell
+hx .
+source defs.nu
+notes
+clear
+br
+ls
+clear
+ta Dev
+ls
+tk Dev
+clear
+br
+clear
+ls
+clear
+cd
+clear
+l
+ls
+clear
+ls
+cd tutorial
+br
+cd broot
+hx .
+cd
+br
+tmux send-keys -t 2 gitui Enter<\n>
+tmux send-keys -t 1 lazygit Enter<\n>
+tmux send-keys -t 1 br Enter<\n><\n>
+tmux select-pane -t 1<\n>
+clear
+ls
+clear
+ls
+clear
+ls
+cd helix
+hx .
+cd tmux
+hx .
+clear
+clear
+tmux split-window -h -b yazi
+tmux split-window -h -b -l 30% yazi
+tmux split-window -h -b -l 30% br
+tmux split-window -h -b -l 30% broot
+tmux split-window -h -b -l 30% br
+tmux split-window -h -b -l 30% ^br
+tmux split-window -h -b -l 30% broot
+clear
+cd helix
+hx .
+clear
+hx .
+clear
+l
+clear
+l
+ls
+clear
+ls
+clear
+ls
+clear
+tutorial
+clear
+cd tutorial
+dir
+d
+clear
+c
+clear
+brupr
+lcear
+clear
+cd helix
+hx ,
+hx .
+clear
+cd tutorial
+clear
+l
+clear
+ls
+clear
+l
+clear
+cd
+ls
+ls -a
+rm .lesshst
+rm .viminfo
+ls -a
+rmds
+y
+clear
+br
+clear
+hx .
+clear
+l
+lc
+clear
+cd nushell
+hx .
+source defs.nu
+y
+hx .
+source defs.nu
+y
+clear
+yq
+y
+clear
+ls
+clear
+br
+clear
+brupr
+clear
+ls
+clear
+l
+ls
+cd tutorialc
+clear
+ls
+ls -a 
+c;ear
+ls -al
+xa
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+l
+clear
+cd tmux
+ls
+hx tmux
+hx tmux.conf
+clear
+l
+ls
+clear
+ls
+cd
+clear
+brupr
+ls
+clear
+ls -a
+clear
+la
+ls -a
+ls -l
+ls -la
+clear
+br
+clear
+ls
+clear
+ls
+clear
+ls 0a
+ls -a
+clear
+ls
+ls -a
+cd .tmux
+lx
+ls
+x
+dir
+cd 
+clear
+ls
+clear
+cd
+clear
+brew doctor
+ls
+clear
+ls
+cd nushell
+hx .
+clear
+cd
+ls
+ls -a
+clear
+;s
+ls
+clear
+ls
+clear
+ls -a
+cd tmux 
+clear
+hx .
+ls
+clear
+;s
+clear
+ls
+clear
+ls -la
+clear
+cd 
+sl
+ls
+clear
+cd tutorial
+clear
+br
+l
+clear
+ls
+cd broot
+ls
+clear
+ls
+hx .
+br
+d
+cd nushell
+hx .
+br --only-folders --conf ~/.config/broot/selectdir.toml 
+broot --only-folders --conf ~/.config/broot/selectdir.toml
+^broot --only-folders --conf ~/.config/broot/selectdir.toml
+broot --only-folders --conf ~/.config/broot/selectdir.toml
+clear
+cd
+clear
+br
+clear
+ls
+clear
+cd nushell
+cargo run
+notes
+rustup toolchain list
+clear
+l
+ls
+clear
+hx .
+clear
+ls
+clear
+l
+ls
+clear
+l
+ls
+clear
+ls -a 
+clear
+ls
+clear
+brupr
+brew cleanup
+clear
+l
+ls
+clear
+ls
+clear
+brupr
+clear
+ls
+clear
+ls -a
+clear
+cd nushell
+hx .
+source defs.nu
+source config.nu
+ls
+hx .
+source config.nu
+clear
+ls -a
+ls 
+clear
+ls
+clear
+ls -a
+l
+clear
+dir
+x
+hx .
+source config.nu
+clear
+ls
+ls -a
+xta
+xl
+xla
+clear
+ls -a
+rust links 
+hx themes/kanagawa-dragon.nu
+source config.nu
+source themes/kanagawa-dragon.nu
+clear
+hx .
+source config.nu
+clear
+ls
+xla
+ls
+clear
+ls
+rust docs 
+clear
+hx .
+clear
+l
+ls
+ls -a
+clear
+ls
+clear
+ls
+ls -a
+clear
+ls -a
+clear
+dir
+clear
+cd 
+cd Downloads/
+ls
+hx config.jsonc
+cd fastfetch
+ls
+hx config.jsonc
+info
+ls
+clear
+ls
+ls -a
+clear
+ls
+cd
+ls
+rmds
+y
+clear
+ls
+rmds
+clear
+cd
+clear
+ls
+clear
+ls
+brupr
+to
+clear
+ls
+clear
+mise up
+clear
+cd aerospace/
+ls
+cd config
+ls
+cd aerospace/
+ls
+clear
+ls
+clear
+hx .
+rmds
+clear
+ls
+xla
+hx .
+clear
+ls
+sl
+ls
+clear
+hx .
+clear
+cd 
+clear
+brupr
+clear
+info
+clear
+hx .
+cd nushell
+hx .
+souce config.nu
+source config.nu
+clear
+ls
+clear
+info
+info
+clear
+hx .
+cd ..
+cd fastfetch
+hx .
+info
+hx .
+info
+hx .
+clear
+info
+hx .
+info
+cd fastfetch
+clear
+info
+hx .
+info
+clear
+info
+clear
+info
+clear
+info
+clear
+info
+clear
+info
+clear
+info
+ckear
+clear
+info
+ar
+info
+clear
+info
+clear
+info
+clear
+info
+clear
+info
+clear
+hx .
+clear
+ls
+info
+clear
+ls
+cd
+ls
+clear
+brupr
+brew list gh
+brew list
+clear
+btm
+clear
+l
+clear
+brupr
+clear
+brew install --cask google-chrome
+brew cleanup
+brew uninstall --zap google-chrome
+brew cleanup
+clear
+ls
+eclear
+clear
+ls
+clear
+sk
+clear
+ls
+clear
+ls
+clear
+ls
+brew cleanup
+brew doctor
+clear
+cd alacritty
+hx .
+clear
+ls
+clear
+ls
+clear
+l
+clear
+hx .
+clear
+hx .
+clear
+hx .
+ls
+ls 
+clear
+hx .
+clear
+ls
+clear
+hx .
+clear
+ls
+clear
+hx .
+cd
+clear
+ls
+clear
+ls -a
+rmds
+clear
+brupr
+clear
+;s
+clear
+ls
+clear
+ls
+clear
+brupr
+ls
+clear
+ls
+ls -a
+clear
+cd alacritty
+hx .
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+sl
+ls
+l
+clear
+brew install --cask vivaldi
+brew uninstall --zap vivaldi
+brew install --cask vivaldi
+clear
+brew uninstall --zap arc
+ls
+clear
+ls
+ls -a
+clear
+cd
+clear
+ls
+clear
+brew cleanup
+brew autoremove
+clear
+ls
+rmds
+fzf
+clear
+ls
+ls -a
+clear
+ls
+clear
+brupr
+aerospace 
+aerospace list-apps
+ls
+aerospace list-apps
+hx .
+cd alacritty
+cd aer
+ls
+hx .
+cd 
+sk
+ls
+clear
+ls -a
+clear
+tl
+clear
+ls
+rmds
+clear
+ls
+clear
+ls -a
+clear
+cd tutorial
+ls
+clear
+brupr
+ls
+clear
+notes
+clear
+ls
+clear
+ls 
+clear
+ls
+cd
+l
+lcear
+clear
+brupr
+ls
+clear
+ls
+cd nushell
+ls
+clear
+ls
+clear
+xl
+clear
+hx config.nu
+cd tmux
+hx .
+clear
+ckear
+clear
+info
+cd aer
+hx .
+clear
+info
+clear
+info
+btm
+clear
+ls
+clear
+brupr
+clear
+btm
+clear
+ls
+clear
+ls
+cd
+ls
+clear
+ls
+clear
+cd config
+ls
+clear
+hx .
+clear
+cd
+clear
+rmds
+clear
+ls
+clear
+xcode-select --install<\n>
+clear
+cd nushell
+hx .
+echo $env.PAGER
+less
+ls
+less -R history.txt
+hx .
+clear
+echo $env.TERM
+cd aer
+hx .
+clear
+ls
+clear
+brupr
+clear
+ls
+clear
+hx --health
+cd helix
+ln -Ts $PWD/runtime ~/.config/helix/runtime<\n>
+ln -s ($env.PWD + "/runtime") ~/.config/helix/runtime<\n>
+ls
+hx runtime
+y
+ls
+hx --health
+brew reinstall helix
+ls
+hx --health
+rm runtime
+ls
+clear
+hx --health
+clear
+hx --health rust
+clear
+ls
+clear
+cd nushell
+clear
+ls
+br
+source config.nu
+clear
+hx envvars.nu
+cd tutorial
+clear
+cargo run 
+source scripts/cargo-completions.nu
+clear
+cd tutorial
+clear
+cargo vcs
+nu-complete cargo vcs<\n>
+clear
+nu-complete cargo run
+nu-complete cargo color 
+nu-complete zoxide path 
+nu-complete cargo features 
+nu-complete cargo packages 
+nu-complete cargo targets 
+ls
+nu-complete cargo bins 
+clear
+hx .
+br
+source config.nu
+clear
+source scripts/rustup-completions.nu
+clear
+ls
+clear
+hx .
+source config.nu
+nucp
+source aliases.nu
+clear
+nucp
+source aliases.nu
+source config.nu
+clear
+ls
+clear
+hx .
+clear
+ls
+hx envvars.nu
+ls
+source paths.nu
+ls
+hx .
+ls
+hx modules.nu
+source modules.nu
+clear
+ls
+rm mise.nu
+ls
+clear
+source modules.nu
+clear
+mise list
+ls
+clear
+hx .
+ls
+clear
+ls
+mkcd configs
+ls
+br
+y
+clear
+ls
+ls -a
+rm .lesshst
+ls
+clear
+ls -a
+clear
+cd nushell
+hx .
+source config.nu
+clear
+ls
+xl
+xla
+clear
+mise up
+mise list
+clear
+tl
+ta DEv
+ls
+ls -a
+clear
+ls
+clear
+hx config.nu
+source config.nu
+ls -a
+hx .
+source configs/aliases.nu
+ls
+hx .
+clear
+xl
+clear
+x
+hx .
+source configs/aliases.nu
+clear
+x
+xl
+xla
+clear
+xt
+clear
+ls
+clear
+ls
+clear
+ls
+cd
+ls
+l
+ls
+clear
+ls
+clear
+ls -a
+xla
+clear
+brupr
+ls
+brew cleanup
+clear
+cd nushell
+hx .
+source configs/aliases.nu
+clear
+y
+hx .
+y
+hx .
+source configs/aliases.nu
+source configs/defs
+source configs/defs.nu
+y
+hx .
+source configs/defs.nu
+y
+ta Dev
+tk Dev
+y
+clear
+ls
+clear
+ls
+cd nushell
+hx .
+y
+cd nu
+hx .
+source configs/defs.nu
+clear
+cd nu
+hx .
+sourc env.nu
+y
+clear
+cd nus
+hx .
+clear
+ls
+ls -a
+clear
+ls
+clear
+tl
+clear
+ls
+cear
+clear
+l
+ls
+ls -a
+clear
+cd tutorial
+clear
+hx .
+clear
+cd alacritty
+hx .
+hx --health
+clear
+hx .
+cd helix
+hx .
+clear
+hx .
+tmux show -s set-clipboard
+hx .
+cd tmux
+hx .
+tmux show -s set-clipboard
+clear
+hx --health
+ls
+clear
+hx .
+clear
+hx --health
+clear
+hx .
+hx --health
+clear
+hx .
+hx --health
+hx .
+clear
+hx .
+clear
+ls
+cd tmux
+hx .
+clear
+ls
+clear
+cd
+clear
+brupr
+clear
+l
+ls
+claer
+clear
+xl
+xla
+du
+clear
+hx .
+cd nus
+ls
+hx .
+source env.nu
+clear
+tn Dev
+clear
+tk Dev
+clear
+cd nus
+hx .
+clear
+cd tutorial
+clear
+ls
+cd nu
+hx .
+source env.nu
+clear
+l
+ls
+clear
+ls
+clear
+ls -a
+clear
+brupr
+ls
+clear
+ls
+ls -a
+clear
+ls
+ls | sort
+clear
+ls
+clear
+ls -a
+clear
+ls -a |sort
+clear
+cd 
+ls
+brupr
+ls -a
+clear
+ls
+clear
+ls -a
+dirr
+dir
+clear
+cd
+clear
+ls
+dir
+clear
+brupr
+cear
+clear
+ls
+dir
+clear
+notes
+clear
+ls
+clear
+ls
+ls -a
+dir
+clear
+ls
+clear
+brupr
+ls
+clear
+hx --health
+clear
+ls
+clear
+ls
+clear
+hx .
+cd tmux
+hx .
+ls
+hx --health
+clear
+ls
+cd tmux
+hx .
+tmux
+tl
+tk 1
+clear
+ls
+clear
+clear
+cd
+clear
+ls
+clear
+ls -a
+clear
+cd tmux
+clear
+hx --health
+hx .
+cd 
+clear
+kls
+ls
+clear
+tmux
+clear
+ls
+clear
+ls
+ls -a
+clear
+ls
+clear
+ls -a
+clear
+cd helix
+hx .
+clear
+brupr
+ls
+clear
+ls
+hx .
+cd tutorial
+clear
+hxff
+cd helix
+hx .
+clear
+cd tutorial
+clear
+bacon
+clear
+ckear
+ls
+clear
+brupr
+clclear
+clear
+ls -a
+clear
+cd tmux
+hx .
+clear
+clear
+cd nushell
+hx .
+source envvars.nu
+source configs/envvars.nu
+clear
+configs/aliases.nuclear
+c;ear
+clear
+configs/keybindings.nu
+clear
+hx .
+source configs/envvars.nu
+ls
+clear
+ls -a
+clear
+source configs/envvars.nu
+clear
+cd tutorial
+ls
+clear
+hx .
+cd nushell
+hx .
+clear
+cd
+slc
+clear
+ls
+clear
+ls
+ls -a
+clear
+ls
+ls -a
+clear
+dir
+clear
+ls
+clear
+ls
+clear
+ls -a
+clear
+brupr
+clear
+ls
+tl
+clear
+ls
+clear
+brurp
+brupr
+clear
+l
+ls -a
+clear
+cd aerospace
+ls
+hx .
+tn
+clear
+ls
+clear
+tl
+clear
+ls
+cd
+ls
+cd tutorial
+clear
+ls
+cd helix
+hx .
+clear
+hx .
+clear
+hx .
+clear
+hx .
+clear
+Hclear
+clear
+brupr
+clear
+mise up
+clear
+brupr
+ls
+ls -a
+cd
+ls -a
+rm mechvibes.log
+clear
+cd alacritty
+hx .
+clear
+hx .
+cd helix
+hx .
+clear
+cd tmux
+mise up
+clear
+ls
+clear
+ls
+clear
+hx .
+ls
+mise up
+mise help
+cd nushe
+:q
+tmux
+clear
+cd nushell
+ls
+cd nushell
+hx .
+clear
+ls
+clear
+ls
+ls -a
+clear
+ls -a
+clear
+ls
+cd nushell
+ls
+cd
+ls
+clear
+clear
+cd
+tn Dev
+clear
+ls
+clear
+ls
+cd
+slc
+clear
+which -a mise
+cd nushell
+hx .
+brupr
+ls
+clear
+tmux
+ls
+tl
+tk 2
+tk 3
+tk 6
+tk DEv
+tk Dev
+yk a
+tk a
+tk scratch
+tk test
+ls
+clear
+tl
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd tutorial
+clear
+cd tmux
+hx .
+clear
+ls
+clear
+ls
+ls -a
+clear
+brew install --cask wezterm
+ls
+lc
+clear
+ls
+clear
+ls
+cd wezterm
+hx .
+cd wezterm
+hx .
+ls
+br
+ls
+hx .
+cd wezterm
+hx .
+clear
+clear
+ls
+ls -a
+clear
+ls -a
+clear
+rmds
+y
+clear
+ls
+br
+clear
+cd wezterm
+hx --health
+clear
+ls
+clear
+ls -a
+clear
+ls -a
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls -a
+hx .
+clear
+cd tmux
+hx .
+clear
+br
+clear
+cd nushell
+hx .
+br
+ls
+hx .
+cd wezterm
+hx .
+y
+br
+clear
+hx .
+br
+hx .
+cd wezterm
+hx .
+br
+ls
+clear
+y
+clear
+ls
+clear
+ls
+clear
+l
+ls
+clear
+ls
+d config
+cd config
+ls
+ls
+ls -a

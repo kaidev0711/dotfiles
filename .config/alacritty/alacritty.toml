@@ -1,0 +1,81 @@
+[general]
+import = ["~/.config/alacritty/themes/kanagawa.toml"]
+live_config_reload = true
+
+[env]
+term = "xterm-256color"
+
+[terminal.shell]
+program = "/opt/homebrew/bin/nu"
+args = ["-l"]
+
+[window]
+dynamic_padding = true
+decorations = "Buttonless"
+dynamic_title = false
+opacity = 0.8
+option_as_alt = "Both"
+
+[window.dimensions]
+columns = 160
+lines = 50
+
+[window.padding]
+x = 2
+y = 2
+
+
+[font.bold]
+family = "GeistMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "GeistMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "GeistMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "GeistMono Nerd Font"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font]
+size = 15
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[cursor]
+style = { shape = "Beam", blinking = "Always" }
+unfocused_hollow = true
+blink_interval = 500
+thickness = 0.15
+
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+save_to_clipboard = true
+
+[bell]
+animation = "EaseOutExpo"
+duration = 0
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[mouse]
+hide_when_typing = true
+
+[[mouse.bindings]]
+action = "PasteSelection"
+mouse = "Middle"
